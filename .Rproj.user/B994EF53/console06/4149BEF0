@@ -1,991 +1,991 @@
 
--markers/fonts/ionicons.eot[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesom[0Ke
--markers/fonts/ionicons.svg[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesom[0Ke
--markers/fonts/ionicons.ttf[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesom[0Ke
--markers/fonts/ionicons.woff[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesom[0Ke
--markers/images/markers-matte.png[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesom[0Ke
--markers/images/markers-matte@2x.png[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesom[0Ke
--markers/images/markers-plain.png[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesom[0Ke
--markers/images/markers-shadow.png[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesom[0Ke
--markers/images/markers-shadow@2x.png[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesom[0Ke
--markers/images/markers-soft.png[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesom[0Ke
--markers/images/markers-soft@2x.png[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesom[0Ke
--markers/ionicons.min.css[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesom[0Ke
--markers/leaflet.awesome-markers.css[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesom[0Ke
--markers/leaflet.awesome-markers.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesom[0Ke
--markers/leaflet.awesome-markers.min.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.marker[0Kc
-luster/MIT-LICENCE.txt[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.marker[0Kc
-luster/MarkerCluster.Default.css[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.marker[0Kc
-luster/MarkerCluster.css[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.marker[0Kc
-luster/leaflet.markercluster-src.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.marker[0Kc
-luster/leaflet.markercluster.freezable-src.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.marker[0Kc
-luster/leaflet.markercluster.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.marker[0Kc
-luster/leaflet.markercluster.layersupport-src.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/p[0Kr
-oj4-compressed.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/p[0Kr
-oj4.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/p[0Kr
-oj4leaflet.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locati[0Ko
-nfilter/img/filter-icon.png[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locati[0Ko
-nfilter/img/move-handle.png[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locati[0Ko
-nfilter/img/resize-handle.png[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locati[0Ko
-nfilter/locationfilter-bindings.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locati[0Ko
-nfilter/locationfilter.css[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locati[0Ko
-nfilter/locationfilter.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-provid[0Ke
-rs-plugin/leaflet-providers-plugin.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-easybutton-1.3.1/EasyButton-binding.[0Kj
+[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.m[0Ki
+n.css[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.m[0Ki
+n.js[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.j[0Ks
+[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.m[0Kd
+[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/README.md[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/bower.json[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ri[0Kb
+bon.css[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ri[0Kb
+bon.ie.css[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/leaflet-provid[0Ke
+rs.js[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/license.md[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/package.json[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/providers.json[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-[0Kp
+roviders-plugin.js[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/leafletfix-1.0.0/leafletfix.css[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min[0K.
+css[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min[0K.
+js[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/proj4js-2.3.15/proj4.js[0K
+ create mode 100644 20182/Nal/Postgrado/libraryjs/selectize-0.12.0/selectize.bootstrap3.c[0Ks
 s[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-label-0.2.2/images/death.png[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.css[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.cs[0Ks
-[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-providers-1.0.27/README.md[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-providers-1.0.27/bower.json[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.[0Kc
-ss[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.[0Ki
-e.css[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-providers-1.0.27/leaflet-providers.j[0Ks
-[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-providers-1.0.27/license.md[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-providers-1.0.27/package.json[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-providers-1.0.27/providers.json[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-provi[0Kd
-ers-plugin.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/leafletfix-1.0.0/leafletfix.css[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/nouislider-7.0.10/jquery.nouislider.min.css[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/nouislider-7.0.10/jquery.nouislider.min.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/proj4js-2.3.15/proj4.js[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/selectize-0.12.0/selectize.bootstrap3.css[0K
- create mode 100644 20181/Nal/Mpv/libraryjs/selectize-0.12.0/selectize.min.js[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudi[0Ka
-ntes/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 40, done.[0K[?25l
-Delta compression using up to 8 threads.[0K
-Compressing objects:  28% (11/39)[0K[1G[?25h[?25lCompressing objects:  41% (16/39)[0K[1G[?25h[?25lCompressing objects:  43% (17/39)[0K[1G[?25h[?25lCompressing objects:  92% (36/39)[0K[1G[?25hCompressing objects: 100% (39/39), done.[0K[?25l
-Writing objects:  55% (22/40)[0K[1G[?25h[?25lWriting objects:  55% (22/40), 984.00 KiB | 875.00 KiB/s[0K[1G[?25h[?25lWriting objects:  60% (24/40), 984.00 KiB | 875.00 KiB/s[0K[1G[?25h[?25lWriting objects:  60% (24/40), 3.39 MiB | 1.44 MiB/s   s[0K[1G[?25h[?25lWriting objects:  65% (26/40), 3.39 MiB | 1.44 MiB/s   s[0K[1G[?25h[?25lWriting objects:  70% (28/40), 3.39 MiB | 1.44 MiB/s   s[0K[1G[?25h[?25lWriting objects:  70% (28/40), 4.54 MiB | 1.47 MiB/s   s[0K[1G[?25hWriting objects: 100% (40/40), 6.33 MiB | 1.71 MiB/s, done.[0K[?25l
-Total 40 (delta 24), reused 0 (delta 0)[0K
-[0K[?25h[?25lremote: Resolving deltas:  41% (10/24)[0K[1G[?25h[?25lremote: Resolving deltas:  45% (11/24)[0K[1G[?25h[?25lremote: Resolving deltas:  54% (13/24)[0K[1G[?25hremote: Resolving deltas: 100% (24/24), completed with 6 local objects.[0K[?25l
-[0K[?25hremote:[0K[?25l
-remote: GitHub found 1 vulnerability on estadisticaun/G_Matriculados's default branch (1[0K
-moderate). To find out more, visit:[0K
-remote:      https://github.com/estadisticaun/G_Matriculados/network/alerts[0K
-remote:[0K
-To https://github.com/estadisticaun/G_Matriculados.git[0K
-   345c5e8..6f0f7b3  master -> master[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudi[0Ka
-ntes/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
-]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matriculados[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudian[0Kt
-es/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Kat[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add/rm <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/files-pane.pper[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-AA88D685/2C6F819F[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-AA88D685/2C6F819F-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-AA88D685/lock_file[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-AC445E3B/[0m[0K
-        [0;31mConsultas/[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudian[0Kt
-es/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/files-pane.pper.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-AC445E3B/2C6F819F.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/Proj4Leaflet-0.7.2/proj4-compr[0Ke[?25l
-ssed.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/Proj4Leaflet-0.7.2/proj4.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/bootstrap-them[0Ke[?25l
-.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/bootstrap.min.[0Kc[?25l
-ss.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/bootstrap.min.[0Kj[?25l
-s.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/font-awesome.m[0Ki[?25l
-n.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/fonts/fontawes[0Ko[?25l
-me-webfont.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/fonts/glyphico[0Kn[?25l
-s-halflings-regular.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/fonts/ionicons[0K.[?25l
-svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/ionicons.min.c[0Ks[?25l
-s.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/leaflet.awesom[0Ke[?25l
--markers.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/leaflet.awesom[0Ke[?25l
--markers.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/bootstrap-3.3.7/leaflet.awesom[0Ke[?25l
--markers.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/htmlwidgets-1.2/htmlwidgets.js[0K.[?25l
-[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/jquery-1.12.4/jquery.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/jquery-1.12.4/jquery.min.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-0.7.7/leaflet-src.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-0.7.7/leaflet.js.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/b[0Ko
-otstrap-theme.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/b[0Ko
-otstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/b[0Ko
-otstrap.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/f[0Ko
-nt-awesome.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/f[0Ko
-nts/fontawesome-webfont.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/f[0Ko[?25l
-nts/glyphicons-halflings-regular.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/f[0Ko
-nts/ionicons.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/i[0Ko
-nicons.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/l[0Ke
-aflet.awesome-markers.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/l[0Ke
-aflet.awesome-markers.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/l[0Ke
-aflet.awesome-markers.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/leaflet.[0Kj
-s.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/leaflet.[0Ky[?25l
-aml.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/Leaf[0Kl[?25l
-et.label/leaflet.label-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/Leaf[0Kl[?25l
-et.label/leaflet.label.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/Leaf[0Kl[?25l
-et.label/leaflet.label.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/jque[0Kr[?25l
-y/jquery.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/jque[0Kr
-y/jquery.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl[?25l
-et-measure/leaflet-measure.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl[?25l
-et-measure/leaflet-measure.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl[?25l
-et-measure/leaflet-measure.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl
-et-omnivore/index.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl[?25l
-et-omnivore/leaflet-omnivore.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl[?25l
-et-omnivore/leaflet-omnivore.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl[?25l
-et-omnivore/package.json.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl[?25l
-et-providers/CONTRIBUTING.md.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl[?25l
-et-providers/README.md.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl[?25l
-et-providers/bower.json.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl[?25l
-et-providers/leaflet-providers.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl[?25l
-et-providers/license.md.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl[?25l
-et-providers/package.json.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl[?25l
-et-providers/providers.json.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl
-et/leaflet-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl
-et/leaflet.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaf[0Kl
-etfix/leafletfix.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL[?25l
-eaflet-MiniMap/Control.MiniMap.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet-MiniMap/Control.MiniMap.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL[?25l
-eaflet-MiniMap/Minimap-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL[?25l
-eaflet.EasyButton/EasyButton-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.EasyButton/LICENSE.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL[?25l
-eaflet.EasyButton/easy-button.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.EasyButton/easy-button.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL[?25l
-eaflet.Graticule/Graticule-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.Graticule/L.Graticule.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL[?25l
-eaflet.SimpleGraticule/L.SimpleGraticule.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.SimpleGraticule/L.SimpleGraticule.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL[?25l
-eaflet.SimpleGraticule/SimpleGraticule-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.Terminator/L.Terminator.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL[?25l
-eaflet.Terminator/Terminator-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.awesome-markers/bootstrap-theme.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.awesome-markers/bootstrap.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.awesome-markers/bootstrap.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.awesome-markers/font-awesome.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.awesome-markers/fonts/fontawesome-webfont.svg.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL[?25l
-eaflet.awesome-markers/fonts/glyphicons-halflings-regular.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.awesome-markers/fonts/ionicons.svg.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.awesome-markers/ionicons.min.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.awesome-markers/leaflet.awesome-markers.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.awesome-markers/leaflet.awesome-markers.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.awesome-markers/leaflet.awesome-markers.min.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.markercluster/MIT-LICENCE.txt.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL[?25l
-eaflet.markercluster/MarkerCluster.Default.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL
-eaflet.markercluster/MarkerCluster.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL[?25l
-eaflet.markercluster/leaflet.markercluster-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL[?25l
-eaflet.markercluster/leaflet.markercluster.freezable-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL[?25l
-eaflet.markercluster/leaflet.markercluster.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KL[?25l
-eaflet.markercluster/leaflet.markercluster.layersupport-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KP[?25l
-roj4Leaflet/proj4-compressed.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0KP
-roj4Leaflet/proj4.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0Kl[?25l
-eaflet-locationfilter/locationfilter-bindings.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0Kl[?25l
-eaflet-locationfilter/locationfilter.css.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0Kl[?25l
-eaflet-locationfilter/locationfilter.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-binding-1.1.0/plugins/[0Kl
-eaflet-providers-plugin/leaflet-providers-plugin.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-easybutton-1.3.1/EasyB[0Ku
-tton-binding.js.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-easybutton-1.3.1/LICEN[0KS[?25l
-E.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-easybutton-1.3.1/easy-[0Kb
-utton.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-easybutton-1.3.1/easy-[0Kb
-utton.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-label-0.2.2/leaflet.la[0Kb
-el-src.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-label-0.2.2/leaflet.la[0Kb
-el.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-label-0.2.2/leaflet.la[0Kb
-el.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-minimap-3.3.1/Control.[0KM
-iniMap.css.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-minimap-3.3.1/Control.[0KM
-iniMap.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-minimap-3.3.1/Minimap-[0Kb
-inding.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-1.0.27/CONTR[0KI
-BUTING.md.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-1.0.27/READM[0KE
-.md.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-1.0.27/bower[0K.
-json.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-1.0.27/leafl[0Ke
-t-providers.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-1.0.27/licen[0Ks
-e.md.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-1.0.27/packa[0Kg
-e.json.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-1.0.27/provi[0Kd
-ers.json.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leaflet-providers-plugin-1.1.0[0K/
-leaflet-providers-plugin.js.[0K
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in Consultas/libraryjs/leafletfix-1.0.0/leafletfix.cs[0Ks
-.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudian[0Kt
-es/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0K[?25l$ git push origin ma[0K[?25h[?25l$ git push origin m[0K[?25h[?25l$ git push origin[0K[19G[?25h[18G[?25l$ git push origi[0K[?25h[?25l$ git push orig[0K[?25h[?25l$ git push ori[0K[?25h[?25l$ git push or[0K[?25h[?25l$ git push o[0K[?25h[?25l$ git push[0K[12G[?25h[11G[?25l$ git pus[0K[?25h[?25l$ git pu[0K[?25h[?25l$ git p[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hm[0Ka[0Kp[0Ka[0K[23G[?25l$ git commit -m "mapa p[0K[?25hr[0Ke[0Kg[0Kr[0Ka[0Kd[0Ko[0K[?25l$ git commit -m "mapa pregrad[0K[?25h[?25l$ git commit -m "mapa pregra[0K[?25h[?25l$ git commit -m "mapa pregr[0K[?25h[?25l$ git commit -m "mapa preg[0K[?25h[?25l$ git commit -m "mapa pre[0K[?25h[?25l$ git commit -m "mapa pr[0K[?25h[?25l$ git commit -m "mapa p[0K[?25h[?25l$ git commit -m "mapa[0K[23G[?25h[?25l$ git commit -m "mapa m[0K[?25ha[0Kt[0Kr[0Ki[0Kc[0Ku[0Kl[0Ka[0Kd[0Ko[0Ks[0K[36G[35G[36G[?25l$ git commit -m "mapa matriculados p[0K[?25hr[0Ke[0Kg[0Kr[0Ka[0Kd[0Ko[0K[45G[?25l$ git commit -m "mapa matriculados pregrado C[0K[?25hu[0Kn[0Kd[0Ki[0Kn[0Ka[0Km[0Ka[0Kr[0Kc[0Ka[0K"[0K[?25l
-[0K[?25h[master 64f0ea6] mapa matriculados pregrado Cundinamarca[0K[?25l
- 213 files changed, 95012 insertions(+), 1034 deletions(-)[0K
- rewrite .Rproj.user/B994EF53/console06/4149BEF0 (94%)[0K
- rewrite .Rproj.user/B994EF53/console06/INDEX001 (87%)[0K
- rename .Rproj.user/B994EF53/sources/{s-AA88D685 => s-AC445E3B}/2C6F819F (100%)[0K
- rename .Rproj.user/B994EF53/sources/{s-AA88D685 => s-AC445E3B}/2C6F819F-contents (100%)[0K
- rename .Rproj.user/B994EF53/sources/{s-AA88D685 => s-AC445E3B}/lock_file (100%)[0K
- create mode 100644 Consultas/Mat_res_cundinamarca.html[0K
- create mode 100644 Consultas/libraryjs/Proj4Leaflet-0.7.2/proj4-compressed.js[0K
- create mode 100644 Consultas/libraryjs/Proj4Leaflet-0.7.2/proj4.js[0K
- create mode 100644 Consultas/libraryjs/Proj4Leaflet-0.7.2/proj4leaflet.js[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/bootstrap-theme.min.css[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/bootstrap.min.css[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/bootstrap.min.js[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/font-awesome.min.css[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/FontAwesome.otf[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.eot[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.svg[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.ttf[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.woff[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular[0K.
-eot[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular[0K.
-svg[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular[0K.
-ttf[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular[0K.
-woff[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/ionicons.eot[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/ionicons.svg[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/ionicons.ttf[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/fonts/ionicons.woff[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/images/markers-matte.png[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/images/markers-matte@2x.png[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/images/markers-plain.png[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/images/markers-shadow.png[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/images/markers-shadow@2x.png[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/images/markers-soft.png[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/images/markers-soft@2x.png[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/ionicons.min.css[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.css[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.js[0K
- create mode 100644 Consultas/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.min.js[0K
- create mode 100644 Consultas/libraryjs/htmlwidgets-1.2/htmlwidgets.js[0K
- create mode 100644 Consultas/libraryjs/jquery-1.12.4/jquery.js[0K
- create mode 100644 Consultas/libraryjs/jquery-1.12.4/jquery.min.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-0.7.7/images/1px.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-0.7.7/images/layers-2x.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-0.7.7/images/layers.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-0.7.7/images/marker-icon-2x.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-0.7.7/images/marker-icon.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-0.7.7/images/marker-shadow.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-0.7.7/leaflet-src.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-0.7.7/leaflet.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-0.7.7/leaflet.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap-theme.min.c[0Ks
-s[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/font-awesome.min.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/FontAwesome.otf[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-web[0Kf
-ont.eot[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-web[0Kf
-ont.svg[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-web[0Kf
-ont.ttf[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-web[0Kf
-ont.woff[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-half[0Kl
-ings-regular.eot[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-half[0Kl
-ings-regular.svg[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-half[0Kl
-ings-regular.ttf[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-half[0Kl
-ings-regular.woff[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.eot[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.svg[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.ttf[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.woff[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte.[0Kp
+ create mode 100644 20182/Nal/Postgrado/libraryjs/selectize-0.12.0/selectize.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/A_colegio.html[0K
+ create mode 100644 20182/Nal/Pregrado/A_edad.html[0K
+ create mode 100644 20182/Nal/Pregrado/A_estrato.html[0K
+ create mode 100644 20182/Nal/Pregrado/A_etapa.html[0K
+ create mode 100644 20182/Nal/Pregrado/A_modalidad.html[0K
+ create mode 100644 20182/Nal/Pregrado/A_mpv.html[0K
+ create mode 100644 20182/Nal/Pregrado/A_nacionalidad.html[0K
+ create mode 100644 20182/Nal/Pregrado/A_paes.html[0K
+ create mode 100644 20182/Nal/Pregrado/A_pbm.html[0K
+ create mode 100644 20182/Nal/Pregrado/A_peama.html[0K
+ create mode 100644 20182/Nal/Pregrado/A_sede.html[0K
+ create mode 100644 20182/Nal/Pregrado/A_sexo.html[0K
+ create mode 100644 20182/Nal/Pregrado/A_snies.html[0K
+ create mode 100644 20182/Nal/Pregrado/A_tipo.html[0K
+ create mode 100644 20182/Nal/Pregrado/Nac_col1.html[0K
+ create mode 100644 20182/Nal/Pregrado/Nac_comb.html[0K
+ create mode 100644 20182/Nal/Pregrado/Nac_dpto.html[0K
+ create mode 100644 20182/Nal/Pregrado/Nac_mun.html[0K
+ create mode 100644 20182/Nal/Pregrado/Res_col1.html[0K
+ create mode 100644 20182/Nal/Pregrado/Res_comb.html[0K
+ create mode 100644 20182/Nal/Pregrado/Res_dpto.html[0K
+ create mode 100644 20182/Nal/Pregrado/Res_mun.html[0K
+ create mode 100644 20182/Nal/Pregrado/S_colegio.html[0K
+ create mode 100644 20182/Nal/Pregrado/S_edad.html[0K
+ create mode 100644 20182/Nal/Pregrado/S_estrato.html[0K
+ create mode 100644 20182/Nal/Pregrado/S_etapa.html[0K
+ create mode 100644 20182/Nal/Pregrado/S_modalidad.html[0K
+ create mode 100644 20182/Nal/Pregrado/S_mpv.html[0K
+ create mode 100644 20182/Nal/Pregrado/S_nacionalidad.html[0K
+ create mode 100644 20182/Nal/Pregrado/S_paes.html[0K
+ create mode 100644 20182/Nal/Pregrado/S_pbm.html[0K
+ create mode 100644 20182/Nal/Pregrado/S_peama.html[0K
+ create mode 100644 20182/Nal/Pregrado/S_sede.html[0K
+ create mode 100644 20182/Nal/Pregrado/S_sexo.html[0K
+ create mode 100644 20182/Nal/Pregrado/S_snies.html[0K
+ create mode 100644 20182/Nal/Pregrado/S_tipo.html[0K
+ create mode 100644 20182/Nal/Pregrado/Serie.html[0K
+ create mode 100644 20182/Nal/Pregrado/T_colegio.html[0K
+ create mode 100644 20182/Nal/Pregrado/T_edad.html[0K
+ create mode 100644 20182/Nal/Pregrado/T_estrato.html[0K
+ create mode 100644 20182/Nal/Pregrado/T_etapa.html[0K
+ create mode 100644 20182/Nal/Pregrado/T_modalidad.html[0K
+ create mode 100644 20182/Nal/Pregrado/T_mpv.html[0K
+ create mode 100644 20182/Nal/Pregrado/T_nacionalidad.html[0K
+ create mode 100644 20182/Nal/Pregrado/T_paes.html[0K
+ create mode 100644 20182/Nal/Pregrado/T_pbm.html[0K
+ create mode 100644 20182/Nal/Pregrado/T_peama.html[0K
+ create mode 100644 20182/Nal/Pregrado/T_sede.html[0K
+ create mode 100644 20182/Nal/Pregrado/T_sexo.html[0K
+ create mode 100644 20182/Nal/Pregrado/T_snies.html[0K
+ create mode 100644 20182/Nal/Pregrado/T_tipo.html[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4-compressed.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4leaflet.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap-theme.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/font-awesome.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/FontAwesome.otf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfon[0Kt
+.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfon[0Kt
+.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfon[0Kt
+.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfon[0Kt
+.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflin[0Kg
+s-regular.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflin[0Kg
+s-regular.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflin[0Kg
+s-regular.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflin[0Kg
+s-regular.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-matte.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-matte@2x.[0Kp
 ng[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte@[0K2
-x.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-plain.[0Kp
-ng[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shadow[0K.
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-plain.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-shadow.pn[0Kg
+[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-shadow@2x[0K.
 png[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shadow[0K@
-2x.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft.p[0Kn
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-soft.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-soft@2x.p[0Kn
 g[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft@2[0Kx
-.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/ionicons.min.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-marke[0Kr
-s.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-marke[0Kr
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/ionicons.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.[0Kc
+ss[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.[0Kj
+s[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.[0Km
+in.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/crosstalk-1.0.0/css/crosstalk.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.js.map[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js.map[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/css/datatables-cr[0Ko
+sstalk.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/datatables.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/datatables.yaml[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/AutoFill/css/autoFill.bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/AutoFill/css/autoFill.bootstrap4.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/AutoFill/css/autoFill.dataTables.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/AutoFill/css/autoFill.foundation.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/AutoFill/css/autoFill.jqueryui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/AutoFill/css/autoFill.semanticui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/AutoFill/js/autoFill.bootstrap.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/AutoFill/js/autoFill.bootstrap4.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/AutoFill/js/autoFill.foundation.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/AutoFill/js/autoFill.jqueryui.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/AutoFill/js/autoFill.semanticui.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/AutoFill/js/dataTables.autoFill.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/css/buttons.bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/css/buttons.bootstrap4.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/css/buttons.dataTables.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/css/buttons.foundation.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/css/buttons.jqueryui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/css/buttons.semanticui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/js/buttons.bootstrap.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/js/buttons.bootstrap4.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/js/buttons.colVis.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/js/buttons.flash.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/js/buttons.foundation.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/js/buttons.html5.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/js/buttons.jqueryui.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/js/buttons.print.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/js/buttons.semanticui.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/js/dataTables.buttons.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/js/jszip.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/js/pdfmake.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/js/vfs_fonts.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Buttons/swf/flashExport.swf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/ColReorder/css/colReorder.bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/ColReorder/css/colReorder.bootstrap4.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/ColReorder/css/colReorder.dataTables.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/ColReorder/css/colReorder.foundation.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/ColReorder/css/colReorder.jqueryui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/ColReorder/css/colReorder.semanticui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/ColReorder/js/dataTables.colReorder.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/FixedColumns/css/fixedColumns.bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/FixedColumns/css/fixedColumns.bootstrap4.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/FixedColumns/css/fixedColumns.dataTables.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/FixedColumns/css/fixedColumns.foundation.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/FixedColumns/css/fixedColumns.jqueryui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/FixedColumns/css/fixedColumns.semanticui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/FixedColumns/js/dataTables.fixedColumns.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/FixedHeader/css/fixedHeader.bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/FixedHeader/css/fixedHeader.bootstrap4.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/FixedHeader/css/fixedHeader.dataTables.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/FixedHeader/css/fixedHeader.foundation.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/FixedHeader/css/fixedHeader.jqueryui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/FixedHeader/css/fixedHeader.semanticui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/FixedHeader/js/dataTables.fixedHeader.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/KeyTable/css/keyTable.bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/KeyTable/css/keyTable.bootstrap4.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/KeyTable/css/keyTable.dataTables.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/KeyTable/css/keyTable.foundation.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/KeyTable/css/keyTable.jqueryui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/KeyTable/css/keyTable.semanticui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/KeyTable/js/dataTables.keyTable.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Responsive/css/responsive.bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Responsive/css/responsive.bootstrap4.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Responsive/css/responsive.dataTables.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Responsive/css/responsive.foundation.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Responsive/css/responsive.jqueryui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Responsive/css/responsive.semanticui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Responsive/js/dataTables.responsive.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Responsive/js/responsive.bootstrap.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Responsive/js/responsive.bootstrap4.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Responsive/js/responsive.foundation.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Responsive/js/responsive.jqueryui.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Responsive/js/responsive.semanticui.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/RowGroup/css/rowGroup.bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/RowGroup/css/rowGroup.bootstrap4.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/RowGroup/css/rowGroup.dataTables.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/RowGroup/css/rowGroup.foundation.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/RowGroup/css/rowGroup.jqueryui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/RowGroup/css/rowGroup.semanticui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/RowGroup/js/dataTables.rowGroup.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/RowReorder/css/rowReorder.bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/RowReorder/css/rowReorder.bootstrap4.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/RowReorder/css/rowReorder.dataTables.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/RowReorder/css/rowReorder.foundation.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/RowReorder/css/rowReorder.jqueryui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/RowReorder/css/rowReorder.semanticui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/RowReorder/js/dataTables.rowReorder.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Scroller/css/scroller.bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Scroller/css/scroller.bootstrap4.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Scroller/css/scroller.dataTables.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Scroller/css/scroller.foundation.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Scroller/css/scroller.jqueryui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Scroller/css/scroller.semanticui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Scroller/js/dataTables.scroller.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Select/css/select.bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Select/css/select.bootstrap4.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Select/css/select.dataTables.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Select/css/select.foundation.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Select/css/select.jqueryui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Select/css/select.semanticui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
+ensions/Select/js/dataTables.select.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku
+gins/natural/natural.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku
+gins/searchHighlight/dataTables.searchHighlight.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku
+gins/searchHighlight/dataTables.searchHighlight.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku
+gins/searchHighlight/jquery.highlight.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
+/dataTables.bootstrap.extra.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
+/dataTables.bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
+/dataTables.bootstrap4.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
+/dataTables.foundation.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
+/dataTables.jqueryui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
+/dataTables.material.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
+/dataTables.semanticui.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
+/dataTables.uikit.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
+/jquery.dataTables.extra.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
+/jquery.dataTables.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
+dataTables.bootstrap.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
+dataTables.bootstrap4.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
+dataTables.foundation.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
+dataTables.jqueryui.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
+dataTables.material.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
+dataTables.semanticui.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
+dataTables.uikit.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
+jquery.dataTables.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/li[0Kc
+ense.txt[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/jquery/LICENS[0KE
+.txt[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/jquery/jquery[0K.
+min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/nouislider/jq[0Ku
+ery.nouislider.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/nouislider/jq[0Ku
+ery.nouislider.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/selectize/sel[0Ke
+ctize.bootstrap3.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/selectize/sel[0Ke
+ctize.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-css-0.0.0/datatables-crosstal[0Kk
+.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-core-1.10.16/css/jquery.dataTables.ex[0Kt
+ra.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-core-1.10.16/css/jquery.dataTables.mi[0Kn
+.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min[0K.
+js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataT[0Ka
+bles.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis[0K.
+min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.[0Km
+in.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.[0Km
+in.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.[0Km
+in.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.but[0Kt
+ons.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.dat[0Ka
+Tables.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.ke[0Ky
+Table.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-responsive-1.10.16/css/responsive[0K.
+dataTables.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.[0Kr
+esponsive.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTa[0Kb
+les.searchHighlight.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTa[0Kb
+les.searchHighlight.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery[0K.
+highlight.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart.yaml[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart2.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart2.yaml[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartct.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartct.yaml[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartzero.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartzero.ya[0Km
+l[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/css/motion.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/custom/reset.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/custom/symbols-extra.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/custom/text-symbols.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/highcharts-3d.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/highcharts-more.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/highcharts.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/maps/modules/map.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/accessibility.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/annotations.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/boost-canvas.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/boost.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/broken-axis.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/bullet.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/data.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/drag-panes.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/drilldown.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/export-data.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/exporting.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/funnel.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/gantt.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/grid-axis.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/heatmap.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/histogram-bellcurve.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/item-series.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/no-data-to-display.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/offline-exporting.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/oldie.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/overlapping-datalabels.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/parallel-coordinates.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/pareto.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/sankey.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/series-label.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/solid-gauge.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/static-scale.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/stock.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/streamgraph.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/sunburst.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/treemap.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/variable-pie.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/variwide.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/vector.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/windbarb.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/wordcloud.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/modules/xrange.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/plugins/annotations.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/plugins/draggable-legend.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/plugins/draggable-points.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/plugins/export-csv.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/plugins/grouped-categories.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/plugins/highcharts-regression.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/plugins/motion.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/plugins/multicolor_series.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/plugins/pattern-fill-v2.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/plugins/tooltip-delay.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
+0.3/stock/highstock.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/htmlwdgtgrid[0K/
+htmlwdgtgrid.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/jquery/jquer[0Ky
+.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/proj4js/proj[0K4
+.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/css/motion.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/custom/reset.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/custom/symbols-extra.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/custom/text-symbols.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/highcharts-3d.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/highcharts-more.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/highcharts.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/maps/modules/map.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/accessibility.j[0Ks
+[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/annotations.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/boost-canvas.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/boost.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/broken-axis.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/bullet.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/data.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/drag-panes.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/drilldown.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/export-data.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/exporting.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/funnel.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/gantt.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/grid-axis.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/heatmap.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/histogram-bellc[0Ku
+rve.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/item-series.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/no-data-to-disp[0Kl
+ay.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/offline-exporti[0Kn
+g.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/oldie.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/overlapping-dat[0Ka
+labels.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/parallel-coordi[0Kn
+ates.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/pareto.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/sankey.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/series-label.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/solid-gauge.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/static-scale.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/stock.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/streamgraph.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/sunburst.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/treemap.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/variable-pie.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/variwide.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/vector.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/windbarb.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/wordcloud.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/xrange.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/annotations.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/draggable-legen[0Kd
+.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/draggable-point[0Ks
+.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/export-csv.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/grouped-categor[0Ki
+es.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/highcharts-regr[0Ke
+ssion.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/motion.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/multicolor_seri[0Ke
 s.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-marke[0Kr
-s.min.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/leaflet.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/leaflet.yaml[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/images/dea[0Kt
-h.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.la[0Kb
-el-src.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.la[0Kb
-el.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.la[0Kb
-el.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.min.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/c[0Ka
-ncel.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/c[0Ka
-ncel_@2X.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/c[0Kh
-eck.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/c[0Kh
-eck_@2X.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/f[0Ko
-cus.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/f[0Ko
-cus_@2X.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/r[0Ku
-lers.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/r[0Ku
-lers_@2X.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/s[0Kt
-art.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/s[0Kt
-art_@2X.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/t[0Kr
-ash.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/t[0Kr
-ash_@2X.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-[0Km
-easure.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-[0Km
-easure.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-[0Km
-easure.min.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/index.j[0Ks
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/pattern-fill-v2[0K.
+js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/tooltip-delay.j[0Ks
 [0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/leaflet[0K-
-omnivore.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/leaflet[0K-
-omnivore.min.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/package[0K.
-json[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/CONTRI[0KB
-UTING.md[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/README[0K.
-md[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/bower.[0Kj
-son[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/css/gh[0K-
-fork-ribbon.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/css/gh[0K-
-fork-ribbon.ie.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/leafle[0Kt
--providers.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/licens[0Ke
-.md[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/packag[0Ke
-.json[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/provid[0Ke
-rs.json[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/1px.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/layers-2x[0K.
-png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/layers.pn[0Kg
+ create mode 100644 20182/Nal/Pregrado/libraryjs/highcharts-6.0.3/stock/highstock.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/htmlwdgtgrid-1/htmlwdgtgrid.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/htmlwidgets-1.2/htmlwidgets.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/jquery-1.11.1/jquery.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/jquery-1.12.4/jquery.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/jquery-1.12.4/jquery.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/jszip-1.10.16/jszip.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/1px.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/layers-2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/layers.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-icon-2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-icon.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-shadow.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet-src.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap-t[0Kh
+eme.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.m[0Ki
+n.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.m[0Ki
+n.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/font-awesom[0Ke
+.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/FontA[0Kw
+esome.otf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fonta[0Kw
+esome-webfont.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fonta[0Kw
+esome-webfont.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fonta[0Kw
+esome-webfont.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fonta[0Kw
+esome-webfont.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyph[0Ki
+cons-halflings-regular.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyph[0Ki
+cons-halflings-regular.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyph[0Ki
+cons-halflings-regular.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyph[0Ki
+cons-halflings-regular.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionic[0Ko
+ns.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionic[0Ko
+ns.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionic[0Ko
+ns.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionic[0Ko
+ns.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/mark[0Ke
+rs-matte.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/mark[0Ke
+rs-matte@2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/mark[0Ke
+rs-plain.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/mark[0Ke
+rs-shadow.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/mark[0Ke
+rs-shadow@2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/mark[0Ke
+rs-soft.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/mark[0Ke
+rs-soft@2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/ionicons.mi[0Kn
+.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awe[0Ks
+ome-markers.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awe[0Ks
+ome-markers.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awe[0Ks
+ome-markers.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/leaflet.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/leaflet.yaml[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/[0Ki
+mages/death.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/[0Kl
+eaflet.label-src.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/[0Kl
+eaflet.label.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/[0Kl
+eaflet.label.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.[0Kj
+s[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.[0Km
+in.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/images/cancel.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/images/cancel_@2X.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/images/check.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/images/check_@2X.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/images/focus.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/images/focus_@2X.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/images/rulers.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/images/rulers_@2X.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/images/start.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/images/start_@2X.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/images/trash.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/images/trash_@2X.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/leaflet-measure.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/leaflet-measure.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measur[0Ke
+/leaflet-measure.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivo[0Kr
+e/index.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivo[0Kr
+e/leaflet-omnivore.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivo[0Kr
+e/leaflet-omnivore.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivo[0Kr
+e/package.json[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke
+rs/CONTRIBUTING.md[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke
+rs/README.md[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke
+rs/bower.json[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke
+rs/css/gh-fork-ribbon.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke
+rs/css/gh-fork-ribbon.ie.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke
+rs/leaflet-providers.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke
+rs/license.md[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke
+rs/package.json[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-provid[0Ke
+rs/providers.json[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images[0K/
+1px.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images[0K/
+layers-2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images[0K/
+layers.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images[0K/
+marker-icon-2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images[0K/
+marker-icon.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images[0K/
+marker-shadow.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leafle[0Kt
+-src.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leafle[0Kt
+.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leafle[0Kt
+.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leafletfix/lea[0Kf
+letfix.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Mi[0Kn
+iMap/Control.MiniMap.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Mi[0Kn
+iMap/Control.MiniMap.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Mi[0Kn
+iMap/Control.MiniMap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Mi[0Kn
+iMap/Control.MiniMap.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Mi[0Kn
+iMap/Minimap-binding.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Mi[0Kn
+iMap/images/toggle.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-Mi[0Kn
+iMap/images/toggle.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Ea[0Ks
+yButton/EasyButton-binding.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Ea[0Ks
+yButton/LICENSE[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Ea[0Ks
+yButton/easy-button.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Ea[0Ks
+yButton/easy-button.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Gr[0Ka
+ticule/Graticule-binding.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Gr[0Ka
+ticule/L.Graticule.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Si[0Km
+pleGraticule/L.SimpleGraticule.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Si[0Km
+pleGraticule/L.SimpleGraticule.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Si[0Km
+pleGraticule/SimpleGraticule-binding.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Te[0Kr
+minator/L.Terminator.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Te[0Kr
+minator/Terminator-binding.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/bootstrap-theme.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/bootstrap.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/bootstrap.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/font-awesome.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/fonts/FontAwesome.otf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/fonts/fontawesome-webfont.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/fonts/fontawesome-webfont.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/fonts/fontawesome-webfont.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/fonts/fontawesome-webfont.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/fonts/glyphicons-halflings-regular.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/fonts/glyphicons-halflings-regular.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/fonts/glyphicons-halflings-regular.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/fonts/glyphicons-halflings-regular.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/fonts/ionicons.eot[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/fonts/ionicons.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/fonts/ionicons.ttf[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/fonts/ionicons.woff[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/images/markers-matte.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/images/markers-matte@2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/images/markers-plain.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/images/markers-shadow.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/images/markers-shadow@2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/images/markers-soft.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/images/markers-soft@2x.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/ionicons.min.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/leaflet.awesome-markers.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/leaflet.awesome-markers.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.aw[0Ke
+some-markers/leaflet.awesome-markers.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.ma[0Kr
+kercluster/MIT-LICENCE.txt[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.ma[0Kr
+kercluster/MarkerCluster.Default.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.ma[0Kr
+kercluster/MarkerCluster.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.ma[0Kr
+kercluster/leaflet.markercluster-src.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.ma[0Kr
+kercluster/leaflet.markercluster.freezable-src.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.ma[0Kr
+kercluster/leaflet.markercluster.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.ma[0Kr
+kercluster/leaflet.markercluster.layersupport-src.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leafl[0Ke
+t/proj4-compressed.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leafl[0Ke
+t/proj4.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leafl[0Ke
+t/proj4leaflet.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-lo[0Kc
+ationfilter/img/filter-icon.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-lo[0Kc
+ationfilter/img/move-handle.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-lo[0Kc
+ationfilter/img/resize-handle.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-lo[0Kc
+ationfilter/locationfilter-bindings.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-lo[0Kc
+ationfilter/locationfilter.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-lo[0Kc
+ationfilter/locationfilter.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-pr[0Ko
+viders-plugin/leaflet-providers-plugin.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/EasyButton-bind[0Ki
+ng.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/images/death.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.cs[0Ks
 [0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-ic[0Ko
-n-2x.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-ic[0Ko
-n.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-sh[0Ka
-dow.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet-src.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/lib/leafletfix/leafletfix.cs[0Ks
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.mi[0Kn
+.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.mi[0Kn
+.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/README.md[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/bower.json[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-rib[0Kb
+on.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-rib[0Kb
+on.ie.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/leaflet-provide[0Kr
+s.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/license.md[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/package.json[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/providers.json[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-p[0Kr
+oviders-plugin.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/leafletfix-1.0.0/leafletfix.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.[0Kc
+ss[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.[0Kj
+s[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/proj4js-2.3.15/proj4.js[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/selectize-0.12.0/selectize.bootstrap3.cs[0Ks
 [0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Cont[0Kr
-ol.MiniMap.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Cont[0Kr
-ol.MiniMap.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Cont[0Kr
-ol.MiniMap.min.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Cont[0Kr
-ol.MiniMap.min.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Mini[0Km
-ap-binding.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/imag[0Ke
-s/toggle.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/imag[0Ke
-s/toggle.svg[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/E[0Ka
-syButton-binding.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/L[0KI
-CENSE[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/e[0Ka
-sy-button.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/e[0Ka
-sy-button.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Graticule/Gr[0Ka
-ticule-binding.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Graticule/L.[0KG
-raticule.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGratic[0Ku
-le/L.SimpleGraticule.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGratic[0Ku
-le/L.SimpleGraticule.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGratic[0Ku
-le/SimpleGraticule-binding.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Terminator/L[0K.
-Terminator.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Terminator/T[0Ke
-rminator-binding.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/bootstrap-theme.min.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/bootstrap.min.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/bootstrap.min.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/font-awesome.min.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/fonts/FontAwesome.otf[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/fonts/fontawesome-webfont.eot[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/fonts/fontawesome-webfont.svg[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/fonts/fontawesome-webfont.ttf[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/fonts/fontawesome-webfont.woff[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/fonts/glyphicons-halflings-regular.eot[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/fonts/glyphicons-halflings-regular.svg[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/fonts/glyphicons-halflings-regular.ttf[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/fonts/glyphicons-halflings-regular.woff[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/fonts/ionicons.eot[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/fonts/ionicons.svg[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/fonts/ionicons.ttf[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/fonts/ionicons.woff[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/images/markers-matte.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/images/markers-matte@2x.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/images/markers-plain.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/images/markers-shadow.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/images/markers-shadow@2x.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/images/markers-soft.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/images/markers-soft@2x.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/ionicons.min.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/leaflet.awesome-markers.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/leaflet.awesome-markers.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-mark[0Ke
-rs/leaflet.awesome-markers.min.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluste[0Kr
-/MIT-LICENCE.txt[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluste[0Kr
-/MarkerCluster.Default.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluste[0Kr
-/MarkerCluster.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluste[0Kr
-/leaflet.markercluster-src.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluste[0Kr
-/leaflet.markercluster.freezable-src.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluste[0Kr
-/leaflet.markercluster.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluste[0Kr
-/leaflet.markercluster.layersupport-src.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4-c[0Ko
-mpressed.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4.j[0Ks
-[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4le[0Ka
-flet.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilt[0Ke
-r/img/filter-icon.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilt[0Ke
-r/img/move-handle.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilt[0Ke
-r/img/resize-handle.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilt[0Ke
-r/locationfilter-bindings.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilt[0Ke
-r/locationfilter.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilt[0Ke
-r/locationfilter.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-providers-pl[0Ku
-gin/leaflet-providers-plugin.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-easybutton-1.3.1/EasyButton-binding.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0K
- create mode 100644 Consultas/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-label-0.2.2/images/death.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0K
- create mode 100644 Consultas/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0K
- create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0K
- create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/README.md[0K
- create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/bower.json[0K
- create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.ie.css[0K
- create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/leaflet-providers.js[0K
- create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/license.md[0K
- create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/package.json[0K
- create mode 100644 Consultas/libraryjs/leaflet-providers-1.0.27/providers.json[0K
- create mode 100644 Consultas/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-providers-p[0Kl
-ugin.js[0K
- create mode 100644 Consultas/libraryjs/leafletfix-1.0.0/leafletfix.css[0K
+ create mode 100644 20182/Nal/Pregrado/libraryjs/selectize-0.12.0/selectize.min.js[0K
 [0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudian[0Kt
-es/G_Matriculados[0;36m (master)[0m[0K[?25h[?25l
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-[0K[?25hUsername for 'https://github.com':[0K[36G[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kv[0K[?25lUsername for 'https://github.com': estadisti[0K[?25hc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 13, done.[0K[?25l
-Delta compression using up to 8 threads.[0K
-Compressing objects: 100% (13/13), done.[0K
-Writing objects:  15% (2/13)[0K[1G[?25h[?25lWriting objects:  84% (11/13)[0K[1G[?25h[?25lWriting objects:  84% (11/13), 984.00 KiB | 748.00 KiB/s[0K[1G[?25h[?25lWriting objects:  84% (11/13), 1.21 MiB | 674.00 KiB/s[0K[1G[?25h[?25lWriting objects:  84% (11/13), 1.62 MiB | 580.00 KiB/s[0K[1G[?25hWriting objects: 100% (13/13), 1.78 MiB | 518.00 KiB/s, done.[0K[?25l
-Total 13 (delta 5), reused 0 (delta 0)[0K
-[0K[?25hremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[0K[?25l
-[0K[?25hremote:[0K[?25l
-remote: GitHub found 1 vulnerability on estadisticaun/G_Matriculados's default branch (1 m[0Ko
-derate). To find out more, visit:[0K
-remote:      https://github.com/estadisticaun/G_Matriculados/network/alerts[0K
-remote:[0K
-To https://github.com/estadisticaun/G_Matriculados.git[0K
-   6f0f7b3..64f0ea6  master -> master[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudian[0Kt
-es/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudian[0Kt
-es/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/sources/prop/INDEX[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/B994EF53/sources/prop/4454F04E[0m[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-AC445E3B/1BE06018[0m[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-AC445E3B/1BE06018-contents[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudian[0Kt
-es/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
-]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matriculados[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudian[0Kt
-es/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Kat[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add/rm <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rhistory[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/files-pane.pper[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/source-pane.pper[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/sources/prop/INDEX[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-AC445E3B/2C6F819F[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-AC445E3B/2C6F819F-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-AC445E3B/lock_file[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/B994EF53/sources/prop/4454F04E[0m[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-21EDF60A/[0m[0K
-        [0;31mConsultas/Mat_res_col1.html[0m[0K
-        [0;31mConsultas/Mat_res_mun.html[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudian[0Kt
-es/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rhistory.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/files-pane.pper.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/source-pane.pper.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/prop/INDEX.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/prop/4454F04E.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-21EDF60A/1BE06018.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-21EDF60A/1BE06018-c[0Ko[?25l
-ntents.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-21EDF60A/2C6F819F.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudian[0Kt
-es/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hM[0Ka[0Kp[0Ka[0Ks[0K[24G[?25l$ git commit -m "Mapas m[0K[?25ha[0Kt[0Kr[0Ki[0Kc[0Ku[0Kl[0Ka[0Kd[0Ko[0Ks[0K[37G[?25l$ git commit -m "Mapas matriculados p[0K[?25hr[0Ke[0Kg[0Kr[0Ka[0Kd[0Ko[0K[46G[?25l$ git commit -m "Mapas matriculados pregrado U[0K[?25hn[0Ki[0Km[0Ke[0Kd[0Ki[0Ko[0Ks[0K"[0K[?25l
-[0K[?25h[master 838731c] Mapas matriculados pregrado Unimedios[0K[?25l
- 14 files changed, 2060 insertions(+), 1035 deletions(-)[0K
- rewrite .Rproj.user/B994EF53/console06/4149BEF0 (71%)[0K
- rewrite .Rproj.user/B994EF53/console06/INDEX001 (88%)[0K
- create mode 100644 .Rproj.user/B994EF53/sources/prop/4454F04E[0K
- create mode 100644 .Rproj.user/B994EF53/sources/s-21EDF60A/1BE06018[0K
- create mode 100644 .Rproj.user/B994EF53/sources/s-21EDF60A/1BE06018-contents[0K
- rename .Rproj.user/B994EF53/sources/{s-AC445E3B => s-21EDF60A}/2C6F819F (100%)[0K
- rename .Rproj.user/B994EF53/sources/{s-AC445E3B => s-21EDF60A}/2C6F819F-contents (100%)[0K
- rename .Rproj.user/B994EF53/sources/{s-AC445E3B => s-21EDF60A}/lock_file (100%)[0K
- create mode 100644 Consultas/Mat_res_col1.html[0K
- create mode 100644 Consultas/Mat_res_mun.html[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudian[0Kt
-es/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0;33m[0K
+[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
 [0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
 error: cannot spawn rpostback-askpass: No such file or directory[0K
 Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
 Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
 [0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 21, done.[0K[?25l
-Delta compression using up to 8 threads.[0K
-Compressing objects:  25% (5/20)[0K[1G[?25hCompressing objects: 100% (20/20), done.[0K[?25l
-Writing objects:  90% (19/21)[0K[1G[?25h[?25lWriting objects:  90% (19/21), 984.00 KiB | 837.00 KiB/s[0K[1G[?25hWriting objects: 100% (21/21), 1.79 MiB | 1.27 MiB/s, done.[0K[?25l
-Total 21 (delta 7), reused 0 (delta 0)[0K
-[0K[?25h[?25lremote: Resolving deltas:   0% (0/7)[0K[1G[?25hremote: Resolving deltas: 100% (7/7), completed with 6 local objects.[0K[?25l
+[0K[?25hCounting objects: 240, done.[0K[?25l
+[0K[?25hDelta compression using up to 8 threads.[0K[?25l
+Compressing objects:  34% (81/238)[0K[1G[?25h[?25lCompressing objects:  39% (93/238)[0K[2G[?25h[?25lCompressing objects:  61% (146/238)[0K[1G[?25h[?25lCompressing objects:  63% (150/238)[0K[1G[?25h[?25lCompressing objects:  76% (181/238)[0K[1G[?25h[?25lCompressing objects:  77% (184/238)[0K[1G[?25h[?25lCompressing objects:  78% (186/238)[0K[1G[?25h[?25lCompressing objects:  80% (191/238)[0K[1G[?25h[?25lCompressing objects:  81% (193/238)[0K[1G[?25h[?25lCompressing objects:  82% (196/238)[0K[1G[?25h[?25lCompressing objects:  83% (198/238)[0K[1G[?25h[?25lCompressing objects:  84% (200/238)[0K[1G[?25h[?25lCompressing objects:  85% (203/238)[0K[1G[?25h[?25lCompressing objects:  86% (205/238)[0K[1G[?25h[?25lCompressing objects:  87% (208/238)[0K[1G[?25h[?25lCompressing objects:  88% (210/238)[0K[1G[?25h[?25lCompressing objects:  89% (212/238)[0K[1G[?25h[?25lCompressing objects:  90% (215/238)[0K[1G[?25h[?25lCompressing objects:  91% (217/238)[0K[1G[?25h[?25lCompressing objects:  92% (219/238)[0K[1G[?25h[?25lCompressing objects:  93% (222/238)[0K[1G[?25h[?25lCompressing objects:  94% (224/238)[0K[1G[?25h[?25lCompressing objects:  95% (227/238)[0K[1G[?25h[?25lCompressing objects:  97% (231/238)[0K[1G[?25h[?25lCompressing objects:  99% (236/238)[0K[1G[?25h[?25lCompressing objects: 100% (238/238)[0K[1G[?25hCompressing objects: 100% (238/238), done.[0K[?25l
+Writing objects:  18% (45/240)[0K[1G[?25h[?25lWriting objects:  18% (45/240), 984.00 KiB | 811.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (47/240), 984.00 KiB | 811.00 KiB/s[0K[1G[?25h[?25lWriting objects:  20% (49/240), 1.82 MiB | 1010.00 KiB/s[0K[1G[?25h[?25lWriting objects:  21% (51/240), 4.08 MiB | 1.71 MiB/s[0K[1G[?25h[?25lWriting objects:  33% (80/240), 5.22 MiB | 1.81 MiB/s[0K[1G[?25h[?25lWriting objects:  34% (83/240), 5.22 MiB | 1.81 MiB/s[0K[1G[?25h[?25lWriting objects:  36% (87/240), 6.38 MiB | 1.84 MiB/s[0K[1G[?25h[?25lWriting objects:  74% (178/240), 6.38 MiB | 1.84 MiB/s[0K[1G[?25h[?25lWriting objects:  77% (185/240), 6.38 MiB | 1.84 MiB/s[0K[1G[?25h[?25lWriting objects:  78% (189/240), 6.38 MiB | 1.84 MiB/s[0K[1G[?25h[?25lWriting objects:  80% (193/240), 6.38 MiB | 1.84 MiB/s[0K[1G[?25h[?25lWriting objects:  92% (221/240), 6.52 MiB | 1.62 MiB/s[0K[1G[?25h[?25lWriting objects:  93% (224/240), 6.52 MiB | 1.62 MiB/s[0K[1G[?25h[?25lWriting objects:  94% (226/240), 6.52 MiB | 1.62 MiB/s[0K[1G[?25h[?25lWriting objects:  95% (228/240), 6.52 MiB | 1.62 MiB/s[0K[1G[?25hWriting objects: 100% (240/240), 6.57 MiB | 1.48 MiB/s, done.[0K[?25l
+Total 240 (delta 198), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  38% (77/198)[0K[1G[?25h[?25lremote: Resolving deltas:  44% (88/198)[0K[1G[?25h[?25lremote: Resolving deltas:  50% (99/198)[0K[1G[?25h[?25lremote: Resolving deltas:  55% (110/198)[0K[1G[?25h[?25lremote: Resolving deltas:  73% (145/198)[0K[1G[?25hremote: Resolving deltas:  75% (150/198)[0K[44G[?25lremote: Resolving deltas: 100% (198/198), completed with 7 local objects.[0K
 [0K[?25hremote:[0K[?25l
-remote: GitHub found 1 vulnerability on estadisticaun/G_Matriculados's default branch (1 m[0Ko
-derate). To find out more, visit:[0K
+remote: GitHub found 1 vulnerability on estadisticaun/G_Matriculados's default branch (1 [0Km
+oderate). To find out more, visit:[0K
 remote:      https://github.com/estadisticaun/G_Matriculados/network/alerts[0K
 remote:[0K
 To https://github.com/estadisticaun/G_Matriculados.git[0K
-   64f0ea6..838731c  master -> master[0K
+   838731c..79fe941  master -> master[0K
 [0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudian[0Kt
-es/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Kat[0Ku[0Ks[0K[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0;33m[0K
+[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
 [0K[?25hOn branch master[0K[?25l
 Your branch is up-to-date with 'origin/master'.[0K
 [0K
@@ -997,9 +997,9 @@ Changes not staged for commit:[0K
 [0K
 no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudian[0Kt
-es/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0;33m[0K
+[0m$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
 ]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matriculados[?25l
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
 tes/G_Matriculados[0;36m (master)[0m[0K
@@ -1013,20 +1013,17 @@ Changes not staged for commit:[0K
 [0K
         [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
         [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/files-pane.pper[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/sources/prop/4454F04E[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-21EDF60A/1BE06018[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-21EDF60A/1BE06018-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-21EDF60A/2C6F819F[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-21EDF60A/2C6F819F-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-21EDF60A/lock_file[0m[0K
-        [0;31mmodified:   .Rproj.user/shared/notebooks/paths[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/pcs/source-pane.pper[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-6D17F956/1BE06018-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-6D17F956/2C6F819F[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-6D17F956/2C6F819F-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-6D17F956/lock_file[0m[0K
 [0K
 Untracked files:[0K
   (use "git add <file>..." to include in what will be committed)[0K
 [0K
-        [0;31m.Rproj.user/B994EF53/sources/s-6D17F956/[0m[0K
-        [0;31m20182/[0m[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-9EBC6350/[0m[0K
+        [0;31mConsultas/Extension.html[0m[0K
 [0K
 no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
