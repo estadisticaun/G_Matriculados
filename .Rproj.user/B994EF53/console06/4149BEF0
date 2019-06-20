@@ -1,176 +1,4 @@
 
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
-dataTables.bootstrap4.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
-dataTables.foundation.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
-dataTables.jqueryui.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
-dataTables.material.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
-dataTables.semanticui.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
-dataTables.uikit.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
-jquery.dataTables.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/li[0Kc
-ense.txt[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/jquery/LICENS[0KE
-.txt[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/jquery/jquery[0K.
-min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/nouislider/jq[0Ku
-ery.nouislider.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/nouislider/jq[0Ku
-ery.nouislider.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/selectize/sel[0Ke
-ctize.bootstrap3.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/selectize/sel[0Ke
-ctize.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-css-0.0.0/datatables-crosstal[0Kk
-.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-core-1.10.16/css/jquery.dataTables.ex[0Kt
-ra.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-core-1.10.16/css/jquery.dataTables.mi[0Kn
-.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min[0K.
-js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataT[0Ka
-bles.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis[0K.
-min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.[0Km
-in.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.[0Km
-in.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.[0Km
-in.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.but[0Kt
-ons.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.dat[0Ka
-Tables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.ke[0Ky
-Table.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-responsive-1.10.16/css/responsive[0K.
-dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.[0Kr
-esponsive.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTa[0Kb
-les.searchHighlight.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTa[0Kb
-les.searchHighlight.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery[0K.
-highlight.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart.yaml[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart2.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart2.yaml[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartct.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartct.yaml[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartzero.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartzero.ya[0Km
-l[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/css/motion.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/custom/reset.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/custom/symbols-extra.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/custom/text-symbols.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/highcharts-3d.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/highcharts-more.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/highcharts.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/maps/modules/map.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/accessibility.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/annotations.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/boost-canvas.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/boost.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/broken-axis.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/bullet.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/data.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/drag-panes.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/drilldown.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/export-data.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/exporting.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/funnel.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/gantt.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/grid-axis.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/heatmap.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/histogram-bellcurve.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/item-series.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/no-data-to-display.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/offline-exporting.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/oldie.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/overlapping-datalabels.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/parallel-coordinates.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/pareto.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/sankey.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/series-label.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/solid-gauge.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/static-scale.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/stock.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/streamgraph.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/sunburst.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/treemap.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/variable-pie.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/variwide.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/vector.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/windbarb.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/wordcloud.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/modules/xrange.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/plugins/annotations.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/plugins/draggable-legend.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/plugins/draggable-points.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/plugins/export-csv.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
-0.3/plugins/grouped-categories.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
 0.3/plugins/highcharts-regression.js[0K
  create mode 100644 20182/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6[0K.
 0.3/plugins/motion.js[0K
@@ -1079,6 +907,155 @@ Untracked files:[0K
         [0;31m.Rproj.user/B994EF53/sources/prop/4E42A643[0m[0K
         [0;31m.Rproj.user/B994EF53/sources/prop/6CBD3B2B[0m[0K
         [0;31m.Rproj.user/B994EF53/sources/s-3CC808D8/[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/files-pane.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/source-pane.pper.[0K
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/prop/INDEX.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/shared/notebooks/paths.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/prop/4E42A643.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/prop/6CBD3B2B.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-3CC808D8/19C22962-[0Kc[?25l
+ontents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-3CC808D8/2C6F819F.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+warning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-3CC808D8/37136363-[0Kc
+ontents.[0K
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hA[0Kc[0Kt[0Ku[0Ka[0Kl[0Ki[0Kz[0Ka[0Kc[0Ki[0Ko[0Kn[0K[32G[?25l$ git commit -m "Actualizacion m[0K[?25ha[0Kt[0Kr[0Ki[0Kc[0Ku[0Kl[0Ka[0K[42G[?25l$ git commit -m "Actualizacion matricula 2[0K[?25h0[0K1[0K8[0K2[0K[48G[?25l$ git commit -m "Actualizacion matricula 20182 p[0K[?25hr[0Ke[0K"[0K[?25l
+[0K[?25h[master 342e5e2] Actualizacion matricula 20182 pre[0K[?25l
+ 65 files changed, 1878 insertions(+), 325 deletions(-)[0K
+ rewrite .Rproj.user/B994EF53/console06/INDEX001 (76%)[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/prop/4E42A643[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/prop/6CBD3B2B[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-3CC808D8/19C22962-contents[0K
+ rename .Rproj.user/B994EF53/sources/{s-C76EA830 => s-3CC808D8}/2C6F819F (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-C76EA830 => s-3CC808D8}/2C6F819F-contents (100%)[0K
+ create mode 100644 .Rproj.user/B994EF53/sources/s-3CC808D8/37136363-contents[0K
+ rename .Rproj.user/B994EF53/sources/{s-C76EA830 => s-3CC808D8}/lock_file (100%)[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git commit -m "Actualizacion matricula 20182 pre"[0K[?25h[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+remote: Invalid username or password.[0K
+fatal: Authentication failed for 'https://github.com/estadisticaun/G_Matriculados.git/'[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git push origin master[0K[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25hCounting objects: 75, done.[0K[?25l
+[0K[?25hDelta compression using up to 8 threads.[0K[?25l
+Compressing objects:  25% (18/72)[0K[1G[?25h[?25lCompressing objects:  34% (25/72)[0K[1G[?25h[?25lCompressing objects:  37% (27/72)[0K[1G[?25h[?25lCompressing objects:  54% (39/72)[0K[1G[?25h[?25lCompressing objects:  72% (52/72)[0K[1G[?25h[?25lCompressing objects:  75% (54/72)[0K[1G[?25h[?25lCompressing objects:  81% (59/72)[0K[1G[?25h[?25lCompressing objects:  94% (68/72)[0K[1G[?25hCompressing objects: 100% (72/72), done.[0K[?25l
+Writing objects: 100% (75/75), 21.02 KiB | 3.50 MiB/s, done.[0K
+Total 75 (delta 58), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:   1% (1/58)[0K[1G[?25h[?25lremote: Resolving deltas:  12% (7/58)[0K[1G[?25h[?25lremote: Resolving deltas:  36% (21/58)[0K[1G[?25h[?25lremote: Resolving deltas:  37% (22/58)[0K[1G[?25h[?25lremote: Resolving deltas:  39% (23/58)[0K[1G[?25h[?25lremote: Resolving deltas:  41% (24/58)[0K[1G[?25h[?25lremote: Resolving deltas:  43% (25/58)[0K[1G[?25h[?25lremote: Resolving deltas:  44% (26/58)[0K[1G[?25h[?25lremote: Resolving deltas:  46% (27/58)[0K[1G[?25h[?25lremote: Resolving deltas:  48% (28/58)[0K[1G[?25h[?25lremote: Resolving deltas:  72% (42/58)[0K[1G[?25hremote: Resolving deltas: 100% (58/58), completed with 53 local objects.[0K[?25l
+[0K[?25hremote:[0K[?25l
+remote: GitHub found 2 vulnerabilities on estadisticaun/G_Matriculados's default branch ([0K2
+ moderate). To find out more, visit:[0K
+remote:      https://github.com/estadisticaun/G_Matriculados/network/alerts[0K
+remote:[0K
+To https://github.com/estadisticaun/G_Matriculados.git[0K
+   77bca4c..342e5e2  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matriculados[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/pcs/source-pane.pper[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-3CC808D8/19C22962-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-3CC808D8/2C6F819F[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-3CC808D8/2C6F819F-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-3CC808D8/37136363-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-3CC808D8/lock_file[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/A_convenio.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/A_edad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/A_mpv.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/A_nacionalidad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/A_nivel.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/A_sede.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/A_sexo.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/A_snies.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/Nac_col1.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/Nac_comb.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/Nac_dpto.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/Nac_mun.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/Res_col1.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/Res_comb.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/Res_dpto.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/Res_mun.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/S_edad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/S_mpv.html[0m[0K
+[0K[9G[?25h[?25l        [0;31mmodified:   20182/Nal/Postgrado/S_nacionalidad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/S_nivel.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/S_sede.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/S_sexo.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/S_snies.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/Serie.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/T_convenio.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/T_edad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/T_mpv.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/T_nacionalidad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/T_nivel.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/T_sede.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/T_sexo.html[0m[0K
+        [0;31mmodified:   20182/Nal/Postgrado/T_snies.html[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-CE756B18/[0m[0K
 [0K
 no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
