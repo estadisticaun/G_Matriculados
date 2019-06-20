@@ -1,197 +1,4 @@
 
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leafl[0Ke
-t/proj4-compressed.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leafl[0Ke
-t/proj4.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leafl[0Ke
-t/proj4leaflet.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-lo[0Kc
-ationfilter/img/filter-icon.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-lo[0Kc
-ationfilter/img/move-handle.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-lo[0Kc
-ationfilter/img/resize-handle.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-lo[0Kc
-ationfilter/locationfilter-bindings.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-lo[0Kc
-ationfilter/locationfilter.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-lo[0Kc
-ationfilter/locationfilter.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-pr[0Ko
-viders-plugin/leaflet-providers-plugin.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/EasyButton-bind[0Ki
-ng.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/images/death.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.cs[0Ks
-[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.mi[0Kn
-.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.mi[0Kn
-.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/README.md[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/bower.json[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-rib[0Kb
-on.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-rib[0Kb
-on.ie.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/leaflet-provide[0Kr
-s.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/license.md[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/package.json[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/providers.json[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-p[0Kr
-oviders-plugin.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/leafletfix-1.0.0/leafletfix.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.[0Kc
-ss[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.[0Kj
-s[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/proj4js-2.3.15/proj4.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/selectize-0.12.0/selectize.bootstrap3.cs[0Ks
-[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/selectize-0.12.0/selectize.min.js[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
-tes/G_Matriculados[0;36m (master)[0;33m[0K
-[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 240, done.[0K[?25l
-[0K[?25hDelta compression using up to 8 threads.[0K[?25l
-Compressing objects:  34% (81/238)[0K[1G[?25h[?25lCompressing objects:  39% (93/238)[0K[2G[?25h[?25lCompressing objects:  61% (146/238)[0K[1G[?25h[?25lCompressing objects:  63% (150/238)[0K[1G[?25h[?25lCompressing objects:  76% (181/238)[0K[1G[?25h[?25lCompressing objects:  77% (184/238)[0K[1G[?25h[?25lCompressing objects:  78% (186/238)[0K[1G[?25h[?25lCompressing objects:  80% (191/238)[0K[1G[?25h[?25lCompressing objects:  81% (193/238)[0K[1G[?25h[?25lCompressing objects:  82% (196/238)[0K[1G[?25h[?25lCompressing objects:  83% (198/238)[0K[1G[?25h[?25lCompressing objects:  84% (200/238)[0K[1G[?25h[?25lCompressing objects:  85% (203/238)[0K[1G[?25h[?25lCompressing objects:  86% (205/238)[0K[1G[?25h[?25lCompressing objects:  87% (208/238)[0K[1G[?25h[?25lCompressing objects:  88% (210/238)[0K[1G[?25h[?25lCompressing objects:  89% (212/238)[0K[1G[?25h[?25lCompressing objects:  90% (215/238)[0K[1G[?25h[?25lCompressing objects:  91% (217/238)[0K[1G[?25h[?25lCompressing objects:  92% (219/238)[0K[1G[?25h[?25lCompressing objects:  93% (222/238)[0K[1G[?25h[?25lCompressing objects:  94% (224/238)[0K[1G[?25h[?25lCompressing objects:  95% (227/238)[0K[1G[?25h[?25lCompressing objects:  97% (231/238)[0K[1G[?25h[?25lCompressing objects:  99% (236/238)[0K[1G[?25h[?25lCompressing objects: 100% (238/238)[0K[1G[?25hCompressing objects: 100% (238/238), done.[0K[?25l
-Writing objects:  18% (45/240)[0K[1G[?25h[?25lWriting objects:  18% (45/240), 984.00 KiB | 811.00 KiB/s[0K[1G[?25h[?25lWriting objects:  19% (47/240), 984.00 KiB | 811.00 KiB/s[0K[1G[?25h[?25lWriting objects:  20% (49/240), 1.82 MiB | 1010.00 KiB/s[0K[1G[?25h[?25lWriting objects:  21% (51/240), 4.08 MiB | 1.71 MiB/s[0K[1G[?25h[?25lWriting objects:  33% (80/240), 5.22 MiB | 1.81 MiB/s[0K[1G[?25h[?25lWriting objects:  34% (83/240), 5.22 MiB | 1.81 MiB/s[0K[1G[?25h[?25lWriting objects:  36% (87/240), 6.38 MiB | 1.84 MiB/s[0K[1G[?25h[?25lWriting objects:  74% (178/240), 6.38 MiB | 1.84 MiB/s[0K[1G[?25h[?25lWriting objects:  77% (185/240), 6.38 MiB | 1.84 MiB/s[0K[1G[?25h[?25lWriting objects:  78% (189/240), 6.38 MiB | 1.84 MiB/s[0K[1G[?25h[?25lWriting objects:  80% (193/240), 6.38 MiB | 1.84 MiB/s[0K[1G[?25h[?25lWriting objects:  92% (221/240), 6.52 MiB | 1.62 MiB/s[0K[1G[?25h[?25lWriting objects:  93% (224/240), 6.52 MiB | 1.62 MiB/s[0K[1G[?25h[?25lWriting objects:  94% (226/240), 6.52 MiB | 1.62 MiB/s[0K[1G[?25h[?25lWriting objects:  95% (228/240), 6.52 MiB | 1.62 MiB/s[0K[1G[?25hWriting objects: 100% (240/240), 6.57 MiB | 1.48 MiB/s, done.[0K[?25l
-Total 240 (delta 198), reused 0 (delta 0)[0K
-[0K[?25h[?25lremote: Resolving deltas:  38% (77/198)[0K[1G[?25h[?25lremote: Resolving deltas:  44% (88/198)[0K[1G[?25h[?25lremote: Resolving deltas:  50% (99/198)[0K[1G[?25h[?25lremote: Resolving deltas:  55% (110/198)[0K[1G[?25h[?25lremote: Resolving deltas:  73% (145/198)[0K[1G[?25hremote: Resolving deltas:  75% (150/198)[0K[44G[?25lremote: Resolving deltas: 100% (198/198), completed with 7 local objects.[0K
-[0K[?25hremote:[0K[?25l
-remote: GitHub found 1 vulnerability on estadisticaun/G_Matriculados's default branch (1 [0Km
-oderate). To find out more, visit:[0K
-remote:      https://github.com/estadisticaun/G_Matriculados/network/alerts[0K
-remote:[0K
-To https://github.com/estadisticaun/G_Matriculados.git[0K
-   838731c..79fe941  master -> master[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
-tes/G_Matriculados[0;36m (master)[0;33m[0K
-[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
-tes/G_Matriculados[0;36m (master)[0;33m[0K
-[0m$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
-]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matriculados[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
-tes/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add/rm <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/source-pane.pper[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-6D17F956/1BE06018-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-6D17F956/2C6F819F[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-6D17F956/2C6F819F-contents[0m[0K
-        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-6D17F956/lock_file[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m.Rproj.user/B994EF53/sources/s-9EBC6350/[0m[0K
-        [0;31mConsultas/Extension.html[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
-tes/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/source-pane.pper.[0K[?25l
-The file will have its original line endings in your working directory.[0K
-warning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-9EBC6350/2C6F819F.[0K
-The file will have its original line endings in your working directory.[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
-tes/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hm[0Ka[0Kp[0Ka[0K[23G[?25l$ git commit -m "mapa a[0K[?25hc[0Kt[0Ki[0Kv[0Ki[0Kd[0Ka[0Kd[0Ke[0Ks[0K[35G[?25l$ git commit -m "mapa actividades d[0K[?25he[0K[38G[?25l$ git commit -m "mapa actividades de e[0K[?25hx[0Kt[0Ke[0Kn[0Ks[0Ki[0K[?25l$ git commit -m "mapa actividades de exten[0K[?25hs[0Ki[0Ko[0Kn[0K"[0K[?25l
-[0K[?25h[master 03a59ea] mapa actividades de extension[0K[?25l
- 8 files changed, 1071 insertions(+), 1941 deletions(-)[0K
- rewrite .Rproj.user/B994EF53/console06/4149BEF0 (95%)[0K
- rewrite .Rproj.user/B994EF53/console06/INDEX001 (88%)[0K
- delete mode 100644 .Rproj.user/B994EF53/sources/s-6D17F956/1BE06018-contents[0K
- rename .Rproj.user/B994EF53/sources/{s-6D17F956 => s-9EBC6350}/2C6F819F (100%)[0K
- rename .Rproj.user/B994EF53/sources/{s-6D17F956 => s-9EBC6350}/2C6F819F-contents (100%)[0K
- rename .Rproj.user/B994EF53/sources/{s-6D17F956 => s-9EBC6350}/lock_file (100%)[0K
- create mode 100644 Consultas/Extension.html[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
-tes/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
-Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
-[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 13, done.[0K[?25l
-Delta compression using up to 8 threads.[0K
-Compressing objects: 100% (12/12)[0K[1G[?25hCompressing objects: 100% (12/12), done.[0K[?25l
-Writing objects:  92% (12/13)[0K[1G[?25hWriting objects: 100% (13/13), 498.94 KiB | 6.01 MiB/s, done.[0K[?25l
-Total 13 (delta 4), reused 0 (delta 0)[0K
-[0K[?25hremote: Resolving deltas: 100% (4/4), completed with 4 local objects.[0K[?25l
-[0K[?25hremote:[0K[?25l
-remote: GitHub found 1 vulnerability on estadisticaun/G_Matriculados's default branch (1 [0Km
-oderate). To find out more, visit:[0K
-remote:      https://github.com/estadisticaun/G_Matriculados/network/alerts[0K
-remote:[0K
-To https://github.com/estadisticaun/G_Matriculados.git[0K
-   79fe941..03a59ea  master -> master[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
-tes/G_Matriculados[0;36m (master)[0m[0K
-$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
-[0K[?25hOn branch master[0K[?25l
-Your branch is up-to-date with 'origin/master'.[0K
-[0K
-Changes not staged for commit:[0K
-  (use "git add/rm <file>..." to update what will be committed)[0K
-  (use "git checkout -- <file>..." to discard changes in working directory)[0K
-[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
-        [0;31mdeleted:    Consultas/Extension.html[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
-tes/G_Matriculados[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
 [0K[?25h[?25l
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
@@ -1065,6 +872,192 @@ Untracked files:[0K
   (use "git add <file>..." to include in what will be committed)[0K
 [0K
         [0;31m.Rproj.user/B994EF53/sources/s-F6BACE96/[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-F6BACE96/2C6F819F.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes to be committed:[0K
+  (use "git reset HEAD <file>..." to unstage)[0K
+[0K
+        [0;32mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
+        [0;32mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;32mrenamed:    .Rproj.user/B994EF53/sources/s-40633FB8/2C6F819F -> .Rproj.user/B994E[0KF
+53/sources/s-F6BACE96/2C6F819F[0m[0K
+        [0;32mrenamed:    .Rproj.user/B994EF53/sources/s-40633FB8/2C6F819F-contents -> .Rproj.u[0Ks
+er/B994EF53/sources/s-F6BACE96/2C6F819F-contents[0m[0K
+        [0;32mrenamed:    .Rproj.user/B994EF53/sources/s-40633FB8/lock_file -> .Rproj.user/B994[0KE
+F53/sources/s-F6BACE96/lock_file[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/A_colegio.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/A_edad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/A_estrato.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/A_modalidad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/A_nacionalidad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/A_paes.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/A_pbm.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/A_peama.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/A_sede.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/A_sexo.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/A_tipo.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/Nac_col1.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/Nac_comb.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/Nac_dpto.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/Nac_mun.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/Res_col1.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/Res_comb.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/Res_dpto.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/Res_mun.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/S_colegio.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/S_edad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/S_estrato.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/S_modalidad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/S_nacionalidad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/S_paes.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/S_pbm.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/S_peama.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/S_sede.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/S_sexo.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/S_snies.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/S_tipo.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/Serie.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/T_colegio.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/T_edad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/T_estrato.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/T_modalidad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/T_nacionalidad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/T_paes.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/T_pbm.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/T_peama.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/T_sede.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/T_sexo.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/T_snies.html[0m[0K
+        [0;32mmodified:   20182/Nal/Mpvpre/T_tipo.html[0m[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
+[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Km[0Ko[0K[?25l$ git commm[0K[?25hi[0Kt[0K[15G[14G[?25l$ git commmi[0K[?25h[?25l$ git commm[0K[?25h[?25l$ git comm[0K[?25hi[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hA[0Kc[0Kt[0Ku[0Ka[0Kl[0Ki[0Kz[0Ka[0Kc[0Ki[0Ko[0Kn[0K[32G[?25l$ git commit -m "Actualizacion M[0K[?25hP[0KV[0KZ[0K[37G[?25l$ git commit -m "Actualizacion MPVZ p[0K[?25hr[0Ke[0Kg[0Kr[0Ka[0Kd[0Ko[0K[46G[?25l$ git commit -m "Actualizacion MPVZ pregrado 2[0K[?25h0[0K1[0K8[0K2[0K![0K[?25l$ git commit -m "Actualizacion MPVZ pregrado 20182[0K[?25h"[0K[?25l
+[0K[?25h[master 6c7bc84] Actualizacion MPVZ pregrado 20182[0K[?25l
+ 49 files changed, 322 insertions(+), 305 deletions(-)[0K
+ rewrite .Rproj.user/B994EF53/console06/INDEX001 (77%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-40633FB8 => s-F6BACE96}/2C6F819F (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-40633FB8 => s-F6BACE96}/2C6F819F-contents (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-40633FB8 => s-F6BACE96}/lock_file (100%)[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0K[?25lUsername for 'https://github.com': estadistic[0K[?25h[?25lUsername for 'https://github.com': estadisti[0K[?25h[?25lUsername for 'https://github.com': estadist[0K[?25h[?25lUsername for 'https://github.com': estadis[0K[?25h[?25lUsername for 'https://github.com': estadi[0K[?25h[?25lUsername for 'https://github.com': estad[0K[?25h[?25lUsername for 'https://github.com': esta[0K[?25h[?25lUsername for 'https://github.com': est[0K[?25h[?25lUsername for 'https://github.com': es[0K[?25h[?25lUsername for 'https://github.com': e[0K[?25h[?25lUsername for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25hCounting objects: 55, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects:  11% (6/54)[0K[1G[?25h[?25lCompressing objects:  16% (9/54)[0K[1G[?25h[?25lCompressing objects:  18% (10/54)[0K[1G[?25h[?25lCompressing objects:  22% (12/54)[0K[1G[?25h[?25lCompressing objects:  25% (14/54)[0K[1G[?25h[?25lCompressing objects:  29% (16/54)[0K[1G[?25h[?25lCompressing objects:  42% (23/54)[0K[1G[?25h[?25lCompressing objects:  79% (43/54)[0K[1G[?25hCompressing objects: 100% (54/54), done.[0K[?25l
+Writing objects:  29% (16/55)[0K[1G[?25hWriting objects: 100% (55/55), 11.31 KiB | 2.83 MiB/s, done.[0K[?25l
+Total 55 (delta 48), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  12% (6/48)[0K[1G[?25h[?25lremote: Resolving deltas:  14% (7/48)[0K[1G[?25h[?25lremote: Resolving deltas:  35% (17/48)[0K[1G[?25h[?25lremote: Resolving deltas:  37% (18/48)[0K[1G[?25h[?25lremote: Resolving deltas:  39% (19/48)[0K[1G[?25h[?25lremote: Resolving deltas:  41% (20/48)[0K[1G[?25h[?25lremote: Resolving deltas:  43% (21/48)[0K[1G[?25h[?25lremote: Resolving deltas:  45% (22/48)[0K[1G[?25h[?25lremote: Resolving deltas:  47% (23/48)[0K[1G[?25h[?25lremote: Resolving deltas:  50% (24/48)[0K[1G[?25h[?25lremote: Resolving deltas:  64% (31/48)[0K[1G[?25hremote: Resolving deltas: 100% (48/48), completed with 45 local objects.[0K[?25l
+[0K[?25hremote:[0K[?25l
+remote: GitHub found 2 vulnerabilities on estadisticaun/G_Matriculados's default branch ([0K2
+ moderate). To find out more, visit:[0K
+remote:      https://github.com/estadisticaun/G_Matriculados/network/alerts[0K
+remote:[0K
+To https://github.com/estadisticaun/G_Matriculados.git[0K
+   dc49929..6c7bc84  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matriculados[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25h[3G[?25l$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ks[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hgit: 'ststus' is not a git command. See 'git --help'.[0K[?25l
+[0K
+The most similar command is[0K
+        status[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ git ststus[0K[?25h[?25l$ git ststu[0K[?25h[?25l$ git stst[0K[?25h[?25l$ git sts[0K[?25h[?25l$ git st[0K[?25ha[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-F6BACE96/2C6F819F[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-F6BACE96/2C6F819F-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-F6BACE96/lock_file[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/A_convenio.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/A_edad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/A_nacionalidad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/A_nivel.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/A_sede.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/A_sexo.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/A_snies.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/Nac_col1.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/Nac_comb.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/Nac_dpto.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/Nac_mun.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/Res_col1.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/Res_comb.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/Res_dpto.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/Res_mun.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/S_edad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/S_nacionalidad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/S_nivel.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/S_sede.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/S_sexo.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/S_snies.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/Serie.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/T_convenio.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/T_edad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/T_nacionalidad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/T_nivel.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/T_sede.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/T_sexo.html[0m[0K
+        [0;31mmodified:   20182/Nal/Mpvpos/T_snies.html[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-E8DA375B/[0m[0K
 [0K
 no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
