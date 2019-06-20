@@ -1,0 +1,201 @@
+##############################################################################
+#                                                                            #  
+#   PROGRAMA PARA LA MANIPULACIÓN DE DATOS REQUERIDOS PARA LA CONSTRUCCIÓN   #
+#        DE LAS ESTADÍSTICAS DE ESTUDIANTES MATRICULADOS EN PREGRADO         #
+#                                                                            #
+##############################################################################
+
+options(digits = 10)
+
+# Paquetes y versiones requeridas
+
+library(tidyverse) # version 1.2.1
+library(readxl)    # version 1.0.0
+
+# Definir tipo de las variables a importar
+
+tipovar <- c("text", "text", "numeric", "numeric", "text", "text", "text", "numeric", 
+  "text", "numeric", "text", "text", "text", "numeric", "text", "numeric", 
+  "text", "text", "text", "numeric", "text", "numeric", "text", "text", 
+  "text", "text", "text", "numeric", "text", "text", "text", "text", "numeric", 
+  "text", "numeric", "text", "text", "text", "text", "text", "text", "text", 
+  "text", "text", "numeric", "text", "text", "text", "numeric", "text", "text", 
+  "text", "numeric", "numeric", "text")
+
+# Función para importar microdatos desde Excel
+
+importar <- function(year, periodo){
+  read_excel(paste0("Microdatos/",year,".xlsx"), 
+             sheet = periodo, guess_max = 100000,  col_types = tipovar)
+}
+
+# Importar bases de datos por año y periodo
+
+M2009 <- importar("P2009 Matrícula", "2009 Matrícula") 
+M2010 <- importar("P2010 Matrícula", "2010 Matrícula") 
+M2011 <- importar("P2011 Matrícula", "2011 Matrícula") 
+M2012 <- importar("P2012 Matrícula", "2012 Matrícula") 
+M2013 <- importar("P2013 Matrícula", "2013 Matrícula") 
+M2014 <- importar("P2014 Matrícula", "2014 Matrícula") 
+M2015 <- importar("P2015 Matrícula", "2015 Matrícula") 
+M2016 <- importar("P2016 Matrícula", "2016 Matrícula") 
+M2017 <- importar("P2017 Matrícula", "2017 Matrícula") 
+M20181 <- importar("P20181 Matrícula", "20181 Matrícula") 
+M20182 <- importar("P20182 Matrícula", "20182 Matrícula") 
+
+# CAMBIAR LAS VARIABLES CON NÚMEROS ALMACENADOS COMO TEXTO (LONGITUD - LATITUD)
+
+
+M2009$LON_CIU_NAC	<- as.numeric(str_replace(M2009$LON_CIU_NAC, ",", "."))
+M2009$LAT_CIU_NAC <- as.numeric(str_replace(M2009$LAT_CIU_NAC, ",", "."))
+M2009$LON_CIU_PROC <- as.numeric(str_replace(M2009$LON_CIU_PROC, ",", "."))
+M2009$LAT_CIU_PROC <- as.numeric(str_replace(M2009$LAT_CIU_PROC, ",", "."))
+
+M2010$LON_CIU_NAC	<- as.numeric(str_replace(M2010$LON_CIU_NAC, ",", "."))
+M2010$LAT_CIU_NAC <- as.numeric(str_replace(M2010$LAT_CIU_NAC, ",", "."))
+M2010$LON_CIU_PROC <- as.numeric(str_replace(M2010$LON_CIU_PROC, ",", "."))
+M2010$LAT_CIU_PROC <- as.numeric(str_replace(M2010$LAT_CIU_PROC, ",", "."))
+
+M2011$LON_CIU_NAC	<- as.numeric(str_replace(M2011$LON_CIU_NAC, ",", "."))
+M2011$LAT_CIU_NAC <- as.numeric(str_replace(M2011$LAT_CIU_NAC, ",", "."))
+M2011$LON_CIU_PROC <- as.numeric(str_replace(M2011$LON_CIU_PROC, ",", "."))
+M2011$LAT_CIU_PROC <- as.numeric(str_replace(M2011$LAT_CIU_PROC, ",", "."))
+
+M2012$LON_CIU_NAC	<- as.numeric(str_replace(M2012$LON_CIU_NAC, ",", "."))
+M2012$LAT_CIU_NAC <- as.numeric(str_replace(M2012$LAT_CIU_NAC, ",", "."))
+M2012$LON_CIU_PROC <- as.numeric(str_replace(M2012$LON_CIU_PROC, ",", "."))
+M2012$LAT_CIU_PROC <- as.numeric(str_replace(M2012$LAT_CIU_PROC, ",", "."))
+
+M2013$LON_CIU_NAC	<- as.numeric(str_replace(M2013$LON_CIU_NAC, ",", "."))
+M2013$LAT_CIU_NAC <- as.numeric(str_replace(M2013$LAT_CIU_NAC, ",", "."))
+M2013$LON_CIU_PROC <- as.numeric(str_replace(M2013$LON_CIU_PROC, ",", "."))
+M2013$LAT_CIU_PROC <- as.numeric(str_replace(M2013$LAT_CIU_PROC, ",", "."))
+
+M2014$LON_CIU_NAC	<- as.numeric(str_replace(M2014$LON_CIU_NAC, ",", "."))
+M2014$LAT_CIU_NAC <- as.numeric(str_replace(M2014$LAT_CIU_NAC, ",", "."))
+M2014$LON_CIU_PROC <- as.numeric(str_replace(M2014$LON_CIU_PROC, ",", "."))
+M2014$LAT_CIU_PROC <- as.numeric(str_replace(M2014$LAT_CIU_PROC, ",", "."))
+
+M2015$LON_CIU_NAC	<- as.numeric(str_replace(M2015$LON_CIU_NAC, ",", "."))
+M2015$LAT_CIU_NAC <- as.numeric(str_replace(M2015$LAT_CIU_NAC, ",", "."))
+M2015$LON_CIU_PROC <- as.numeric(str_replace(M2015$LON_CIU_PROC, ",", "."))
+M2015$LAT_CIU_PROC <- as.numeric(str_replace(M2015$LAT_CIU_PROC, ",", "."))
+
+M2016$LON_CIU_NAC	<- as.numeric(str_replace(M2016$LON_CIU_NAC, ",", "."))
+M2016$LAT_CIU_NAC <- as.numeric(str_replace(M2016$LAT_CIU_NAC, ",", "."))
+M2016$LON_CIU_PROC <- as.numeric(str_replace(M2016$LON_CIU_PROC, ",", "."))
+M2016$LAT_CIU_PROC <- as.numeric(str_replace(M2016$LAT_CIU_PROC, ",", "."))
+
+M2017$LON_CIU_NAC	<- as.numeric(str_replace(M2017$LON_CIU_NAC, ",", "."))
+M2017$LAT_CIU_NAC <- as.numeric(str_replace(M2017$LAT_CIU_NAC, ",", "."))
+M2017$LON_CIU_PROC <- as.numeric(str_replace(M2017$LON_CIU_PROC, ",", "."))
+M2017$LAT_CIU_PROC <- as.numeric(str_replace(M2017$LAT_CIU_PROC, ",", "."))
+
+
+M20181$LON_CIU_NAC	<- as.numeric(str_replace(M20181$LON_CIU_NAC, ",", "."))
+M20181$LAT_CIU_NAC <- as.numeric(str_replace(M20181$LAT_CIU_NAC, ",", "."))
+M20181$LON_CIU_PROC <- as.numeric(str_replace(M20181$LON_CIU_PROC, ",", "."))
+M20181$LAT_CIU_PROC <- as.numeric(str_replace(M20181$LAT_CIU_PROC, ",", "."))
+
+M20182$LON_CIU_NAC	<- as.numeric(str_replace(M20182$LON_CIU_NAC, ",", "."))
+M20182$LAT_CIU_NAC <- as.numeric(str_replace(M20182$LAT_CIU_NAC, ",", "."))
+M20182$LON_CIU_PROC <- as.numeric(str_replace(M20182$LON_CIU_PROC, ",", "."))
+M20182$LAT_CIU_PROC <- as.numeric(str_replace(M20182$LAT_CIU_PROC, ",", "."))
+
+
+# Pegar las bases de datos importadas por abajo
+
+Microdatos <- bind_rows(M2009, M2010, M2011, M2012, M2013, M2014, M2015, M2016, M2017, M20181, M20182)
+
+
+# seleccionar base de datos de matriculados en pregrado
+
+Pregrado <- Microdatos %>% filter(TIPO_NIVEL == "Pregrado")
+PAES <- Microdatos %>% filter(TIPO_NIVEL == "Pregrado", TIPO_ADM == "PAES")
+PEAMA <- Microdatos %>% filter(TIPO_NIVEL == "Pregrado", TIPO_ADM == "PEAMA")
+
+# Funciones para consolidar información agregada tipo gather
+
+# General
+
+Clases <- function(varc){
+  Pregrado %>% group_by(.dots = list("YEAR", "SEMESTRE", varc)) %>%
+    summarise(Total = n()) %>% rename_(.dots=list("Clase"=varc)) %>%
+    mutate_(Variable = "varc") %>% select(Variable, YEAR, SEMESTRE, Clase, Total) %>% ungroup()
+}
+
+# PAES
+
+Clases_pa <- function(varc){
+  PAES %>% group_by(.dots = list("YEAR", "SEMESTRE", varc)) %>%
+    summarise(Total = n()) %>% rename_(.dots=list("Clase"=varc)) %>%
+    mutate_(Variable = "varc") %>% select(Variable, YEAR, SEMESTRE, Clase, Total) %>% ungroup()
+}
+
+# PEAMA
+
+Clases_pe <- function(varc){
+  PEAMA %>% group_by(.dots = list("YEAR", "SEMESTRE", varc)) %>%
+    summarise(Total = n()) %>% rename_(.dots=list("Clase"=varc)) %>%
+    mutate_(Variable = "varc") %>% select(Variable, YEAR, SEMESTRE, Clase, Total) %>% ungroup()
+}
+
+# Consolidación de información agregada por desagregación temática
+
+DT1 <- Clases("NACIONALIDAD")
+DT1 <- mutate(DT1, Clase = if_else(is.na(Clase), "Sin información", Clase)) 
+DT1 <- mutate(DT1, Total = ifelse(YEAR == 2011 & SEMESTRE == 2, NA, Total)) 
+DT2 <- Clases("CAT_EDAD")
+DT2 <- mutate(DT2, Clase = if_else(is.na(Clase), "Sin información", Clase),
+                   Clase = if_else(Clase == "26 o  más años", "26 o más años", Clase)) 
+DT2 <- mutate(DT2, Total = ifelse(YEAR == 2011 & SEMESTRE == 2, NA, Total)) 
+DT3 <- Clases("SEXO")
+DT4 <- Clases("ESTRATO")
+DT4 <- mutate(DT4, Total = ifelse(YEAR == 2011 & SEMESTRE == 2, NA, Total))  #REVISAR POR QUÉ NO FUNCIONA IF_ELSE DE DPLYR (ALGO CON INTEGER Y DOUBLE)
+DT5 <- Clases("TIPO_COL")
+DT5 <- DT5 %>% filter(YEAR != 2009) %>% mutate(Clase = if_else(is.na(Clase), "Sin información", Clase),
+                                               Total = ifelse(YEAR == 2011 & SEMESTRE == 2, NA, Total))   
+DT6 <- Clases("PBM")
+DT6 <- DT6 %>% filter(YEAR != 2009) %>% mutate(Clase = if_else(is.na(Clase), "Sin información", Clase),
+                                               Total = ifelse(YEAR == 2011 & SEMESTRE == 2, NA, Total))    
+DT7 <- Clases("MAT_PVEZ")
+DT8 <- Clases("SEDE_NOMBRE_MAT")
+DT9 <- Clases("MOD_ADM")
+DT10 <- Clases("TIPO_ADM")
+DT11 <- Clases_pa("PAES")
+DT12 <- Clases_pe("PEAMA")
+DT13 <- Clases_pe("MOV_PEAMA")
+DT14 <- Clases("AREAC_SNIES")
+
+
+
+
+# Consolidar tabla con información de evolución histórica de aspirantes a pregrado
+
+Total <- Pregrado %>% group_by(YEAR, SEMESTRE) %>%  summarise(Total = n()) %>% ungroup() %>%
+  mutate(Variable="TOTAL", YEAR=YEAR, SEMESTRE=SEMESTRE, Clase = "Total", Total=Total) %>%
+  select(Variable, YEAR, SEMESTRE, Clase, Total)
+
+# Consolidado de información estadística para visualización 
+
+Consolidado <- bind_rows(DT1, DT2, DT3, DT4, DT5, DT6, DT7, DT8, DT9, DT10, DT11, DT12, DT13, DT14, Total)
+
+# Información para construcción de tablas combinadas por sedes -Programas y facultades-
+
+Carreras <- Microdatos %>% group_by(YEAR, SEMESTRE, SEDE_NOMBRE_MAT, FACULTAD, PROGRAMA) %>% summarise(Total=n()) %>% select(SEDE_NOMBRE_MAT, YEAR, SEMESTRE,  FACULTAD, PROGRAMA, Total)
+Carreras_1 <- Microdatos %>% group_by(YEAR, SEMESTRE, SEDE_NOMBRE_MAT, FACULTAD_S) %>% summarise(Total=n()) %>% select(SEDE_NOMBRE_MAT, YEAR, SEMESTRE,  FACULTAD_S, Total) 
+Carreras_2 <- Microdatos %>% group_by(YEAR, SEMESTRE, SEDE_NOMBRE_MAT, PROGRAMA_S) %>% summarise(Total=n()) %>% select(SEDE_NOMBRE_MAT, YEAR, SEMESTRE, PROGRAMA_S, Total)
+
+# Eliminación del área de trabajo de los marcos de datos -data.frame- no requeridos
+
+rm(M2009, M2010, M2011, M2012, M2013, M2014, M2015, M2016, M2017,M20181,M20182,
+   DT1, DT2, DT3, DT4, DT5, DT6, DT7, DT8, DT9, DT10, DT11, DT12,
+   DT13, DT14, Microdatos,Total,tipovar,importar,Clases,
+   Clases_pa, Clases_pe, PAES, PEAMA, Pregrado)
+   memory.size()
+   gc()
+   memory.size()
+
+
+
+   

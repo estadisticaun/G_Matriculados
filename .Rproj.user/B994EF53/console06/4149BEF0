@@ -1,173 +1,4 @@
 
-ensions/Buttons/js/vfs_fonts.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Buttons/swf/flashExport.swf[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/ColReorder/css/colReorder.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/ColReorder/css/colReorder.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/ColReorder/css/colReorder.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/ColReorder/css/colReorder.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/ColReorder/css/colReorder.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/ColReorder/css/colReorder.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/ColReorder/js/dataTables.colReorder.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedColumns/css/fixedColumns.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedColumns/css/fixedColumns.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedColumns/css/fixedColumns.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedColumns/css/fixedColumns.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedColumns/css/fixedColumns.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedColumns/css/fixedColumns.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedColumns/js/dataTables.fixedColumns.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedHeader/css/fixedHeader.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedHeader/css/fixedHeader.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedHeader/css/fixedHeader.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedHeader/css/fixedHeader.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedHeader/css/fixedHeader.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedHeader/css/fixedHeader.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/FixedHeader/js/dataTables.fixedHeader.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/KeyTable/css/keyTable.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/KeyTable/css/keyTable.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/KeyTable/css/keyTable.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/KeyTable/css/keyTable.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/KeyTable/css/keyTable.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/KeyTable/css/keyTable.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/KeyTable/js/dataTables.keyTable.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/css/responsive.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/css/responsive.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/css/responsive.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/css/responsive.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/css/responsive.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/css/responsive.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/js/dataTables.responsive.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/js/responsive.bootstrap.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/js/responsive.bootstrap4.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/js/responsive.foundation.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/js/responsive.jqueryui.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Responsive/js/responsive.semanticui.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowGroup/css/rowGroup.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowGroup/css/rowGroup.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowGroup/css/rowGroup.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowGroup/css/rowGroup.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowGroup/css/rowGroup.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowGroup/css/rowGroup.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowGroup/js/dataTables.rowGroup.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowReorder/css/rowReorder.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowReorder/css/rowReorder.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowReorder/css/rowReorder.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowReorder/css/rowReorder.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowReorder/css/rowReorder.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowReorder/css/rowReorder.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/RowReorder/js/dataTables.rowReorder.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/css/scroller.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/css/scroller.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/css/scroller.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/css/scroller.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/css/scroller.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/css/scroller.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Scroller/js/dataTables.scroller.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Select/css/select.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Select/css/select.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Select/css/select.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Select/css/select.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Select/css/select.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Select/css/select.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-ex[0Kt
-ensions/Select/js/dataTables.select.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku
-gins/natural/natural.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku
-gins/searchHighlight/dataTables.searchHighlight.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku
-gins/searchHighlight/dataTables.searchHighlight.min.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-pl[0Ku
-gins/searchHighlight/jquery.highlight.js[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
-/dataTables.bootstrap.extra.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
-/dataTables.bootstrap.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
-/dataTables.bootstrap4.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
-/dataTables.foundation.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
-/dataTables.jqueryui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
-/dataTables.material.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
-/dataTables.semanticui.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
-/dataTables.uikit.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
-/jquery.dataTables.extra.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/cs[0Ks
-/jquery.dataTables.min.css[0K
- create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
-dataTables.bootstrap.min.js[0K
  create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
 dataTables.bootstrap4.min.js[0K
  create mode 100644 20182/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js[0K/
@@ -1052,6 +883,202 @@ Untracked files:[0K
   (use "git add <file>..." to include in what will be committed)[0K
 [0K
         [0;31m.Rproj.user/B994EF53/sources/s-C76EA830/[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/pcs/files-pane.pper.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25hwarning: LF will be replaced by CRLF in .Rproj.user/B994EF53/sources/s-C76EA830/2C6F819F.[0K[?25l
+The file will have its original line endings in your working directory.[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes to be committed:[0K
+  (use "git reset HEAD <file>..." to unstage)[0K
+[0K
+        [0;32mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
+        [0;32mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;32mmodified:   .Rproj.user/B994EF53/pcs/files-pane.pper[0m[0K
+        [0;32mrenamed:    .Rproj.user/B994EF53/sources/s-9EBC6350/2C6F819F -> .Rproj.user/B994E[0KF
+53/sources/s-C76EA830/2C6F819F[0m[0K
+        [0;32mrenamed:    .Rproj.user/B994EF53/sources/s-9EBC6350/2C6F819F-contents -> .Rproj.u[0Ks
+er/B994EF53/sources/s-C76EA830/2C6F819F-contents[0m[0K
+        [0;32mrenamed:    .Rproj.user/B994EF53/sources/s-9EBC6350/lock_file -> .Rproj.user/B994[0KE
+F53/sources/s-C76EA830/lock_file[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/A_modalidad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/A_mpv.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/A_nacionalidad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/A_nivel.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/A_sede.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/A_sexo.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/A_snies.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/Nac_col1.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/Nac_comb.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/Nac_dpto.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/Nac_mun.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/Res_col1.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/Res_comb.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/Res_dpto.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/Res_mun.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/S_modalidad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/S_mpv.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/S_nacionalidad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/S_nivel.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/S_sede.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/S_sexo.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/S_snies.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/Serie.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/T_modalidad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/T_mpv.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/T_nacionalidad.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/T_nivel.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/T_sede.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/T_sexo.html[0m[0K
+        [0;32mmodified:   20182/Nal/Matriculados/T_snies.html[0m[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
+[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hm[0Ka[0K[?25l$ git commit -m "m[0K[?25h[?25l$ git commit -m "[0K[?25hO[0Kb[0Kj[0Ke[0Kt[0Ko[0Ks[0K[26G[?25l$ git commit -m "Objetos g[0K[?25hr[0Ka[0Kf[0Ki[0Kc[0Ko[0Ks[0K[35G[?25l$ git commit -m "Objetos graficos m[0K[?25ha[0Kt[0Kr[0Ki[0Kc[0Ku[0Kl[0Ka[0Kd[0Ko[0Ks[0K[48G[?25l$ git commit -m "Objetos graficos matriculados a[0K[?25h[?25l$ git commit -m "Objetos graficos matriculados[0K[48G[?25h[?25l$ git commit -m "Objetos graficos matriculados 2[0K[?25h0[0K1[0K8[0K[53G[?25l$ git commit -m "Objetos graficos matriculados 2018 a[0K[?25hc[0Kt[0Ku[0Ka[0Kl[0Ki[0Kz[0Ka[0Kd[0Ko[0Ks[0K"[0K[?25l
+[0K[?25h[master 77bca4c] Objetos graficos matriculados 2018 actualizados[0K[?25l
+ 36 files changed, 198 insertions(+), 294 deletions(-)[0K
+ rewrite .Rproj.user/B994EF53/console06/INDEX001 (88%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-9EBC6350 => s-C76EA830}/2C6F819F (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-9EBC6350 => s-C76EA830}/2C6F819F-contents (100%)[0K
+ rename .Rproj.user/B994EF53/sources/{s-9EBC6350 => s-C76EA830}/lock_file (100%)[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+error: cannot spawn rpostback-askpass: No such file or directory[0K
+Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
+Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
+[0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
+[0K[?25hCounting objects: 43, done.[0K[?25l
+Delta compression using up to 8 threads.[0K
+Compressing objects:   9% (4/42)[0K[2G[?25h[?25lCompressing objects:  11% (5/42)[0K[1G[?25h[?25lCompressing objects:  33% (14/42)[0K[1G[?25h[?25lCompressing objects:  38% (16/42)[0K[1G[?25h[?25lCompressing objects:  54% (23/42)[0K[1G[?25h[?25lCompressing objects:  57% (24/42)[0K[1G[?25h[?25lCompressing objects:  59% (25/42)[0K[1G[?25h[?25lCompressing objects:  64% (27/42)[0K[1G[?25h[?25lCompressing objects:  85% (36/42)[0K[1G[?25hCompressing objects: 100% (42/42), done.[0K[?25l
+Writing objects:  27% (12/43)[0K[1G[?25hWriting objects: 100% (43/43), 12.42 KiB | 3.10 MiB/s, done.[0K[?25l
+Total 43 (delta 35), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  28% (10/35)[0K[1G[?25h[?25lremote: Resolving deltas:  40% (14/35)[0K[1G[?25h[?25lremote: Resolving deltas:  42% (15/35)[0K[1G[?25h[?25lremote: Resolving deltas:  45% (16/35)[0K[1G[?25h[?25lremote: Resolving deltas:  48% (17/35)[0K[1G[?25h[?25lremote: Resolving deltas:  51% (18/35)[0K[1G[?25h[?25lremote: Resolving deltas:  54% (19/35)[0K[1G[?25h[?25lremote: Resolving deltas:  57% (20/35)[0K[1G[?25h[?25lremote: Resolving deltas:  60% (21/35)[0K[1G[?25hremote: Resolving deltas: 100% (35/35), completed with 32 local objects.[0K[?25l
+[0K[?25hremote:[0K[?25l
+remote: GitHub found 2 vulnerabilities on estadisticaun/G_Matriculados's default branch ([0K2
+ moderate). To find out more, visit:[0K
+remote:      https://github.com/estadisticaun/G_Matriculados/network/alerts[0K
+remote:[0K
+To https://github.com/estadisticaun/G_Matriculados.git[0K
+   92f9a78..77bca4c  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matriculados[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudia[0Kn
+tes/G_Matriculados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add/rm <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rhistory[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/pcs/files-pane.pper[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/pcs/source-pane.pper[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/sources/prop/INDEX[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-C76EA830/2C6F819F[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-C76EA830/2C6F819F-contents[0m[0K
+        [0;31mdeleted:    .Rproj.user/B994EF53/sources/s-C76EA830/lock_file[0m[0K
+        [0;31mmodified:   .Rproj.user/shared/notebooks/paths[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/A_colegio.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/A_edad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/A_estrato.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/A_etapa.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/A_modalidad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/A_mpv.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/A_nacionalidad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/A_paes.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/A_pbm.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/A_peama.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/A_sede.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/A_sexo.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/A_snies.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/A_tipo.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/Nac_col1.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/Nac_comb.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/Nac_dpto.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/Nac_mun.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/Res_col1.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/Res_comb.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/Res_dpto.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/Res_mun.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/S_colegio.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/S_edad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/S_estrato.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/S_etapa.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/S_modalidad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/S_mpv.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/S_nacionalidad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/S_paes.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/S_pbm.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/S_peama.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/S_sede.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/S_sexo.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/S_snies.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/S_tipo.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/Serie.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/T_colegio.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/T_edad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/T_estrato.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/T_etapa.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/T_modalidad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/T_mpv.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/T_nacionalidad.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/T_paes.html[0m[0K
+[0K[9G[?25h[?25l        [0;31mmodified:   20182/Nal/Pregrado/T_pbm.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/T_peama.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/T_sede.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/T_sexo.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/T_snies.html[0m[0K
+        [0;31mmodified:   20182/Nal/Pregrado/T_tipo.html[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31m.Rproj.user/B994EF53/sources/prop/4E42A643[0m[0K
+        [0;31m.Rproj.user/B994EF53/sources/prop/6CBD3B2B[0m[0K
+        [0;31m.Rproj.user/B994EF53/sources/s-3CC808D8/[0m[0K
 [0K
 no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
