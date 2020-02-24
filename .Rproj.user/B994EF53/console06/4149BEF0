@@ -1,1000 +1,960 @@
 
+mages/markers-plain.png[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Ki
+mages/markers-shadow.png[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Ki
+mages/markers-shadow@2x.png[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Ki
+mages/markers-soft.png[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Ki
+mages/markers-soft@2x.png[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Ki
+onicons.min.css[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kl
+eaflet.awesome-markers.css[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kl
+eaflet.awesome-markers.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/[0Kl
+eaflet.awesome-markers.min.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/MI[0KT
+-LICENCE.txt[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/Ma[0Kr
+kerCluster.Default.css[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/Ma[0Kr
 kerCluster.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/le[0Ka
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/le[0Ka
 flet.markercluster-src.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/le[0Ka
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/le[0Ka
 flet.markercluster.freezable-src.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/le[0Ka
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/le[0Ka
 flet.markercluster.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/le[0Ka
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/le[0Ka
 flet.markercluster.layersupport-src.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4-compr[0Ke
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4-compr[0Ke
 ssed.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4leafle[0Kt
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4leafle[0Kt
 .js[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/i[0Km
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/i[0Km
 g/filter-icon.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/i[0Km
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/i[0Km
 g/move-handle.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/i[0Km
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/i[0Km
 g/resize-handle.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/l[0Ko
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/l[0Ko
 cationfilter-bindings.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/l[0Ko
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/l[0Ko
 cationfilter.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/l[0Ko
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/l[0Ko
 cationfilter.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-providers-plugin[0K/
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-providers-plugin[0K/
 leaflet-providers-plugin.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-easybutton-1.3.1/EasyButton-binding.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-label-0.2.2/images/death.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/README.md[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/bower.json[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.ie.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/leaflet-providers.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/license.md[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/package.json[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/providers.json[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-providers-plugi[0Kn
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-easybutton-1.3.1/EasyButton-binding.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-label-0.2.2/images/death.png[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.css[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.css[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/README.md[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/bower.json[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.css[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.ie.css[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/leaflet-providers.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/license.md[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/package.json[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-providers-1.0.27/providers.json[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-providers-plugi[0Kn
 .js[0K
-[0m        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/leafletfix-1.0.0/leafletfix.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/proj4js-2.3.15/proj4.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/selectize-0.12.0/selectize.bootstrap3.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Postgrado/libraryjs/selectize-0.12.0/selectize.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/A_colegio.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/A_edad.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/A_estrato.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/A_etapa.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/A_modalidad.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/A_mpv.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/A_nacionalidad.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/A_paes.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/A_pbm.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/A_peama.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/A_sede.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/A_sexo.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/A_snies.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/A_tipo.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/Nac_col1.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/Nac_comb.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/Nac_dpto.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/Nac_mun.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/Res_col1.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/Res_comb.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/Res_dpto.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/Res_mun.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/S_colegio.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/S_edad.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/S_estrato.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/S_etapa.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/S_modalidad.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/S_mpv.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/S_nacionalidad.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/S_paes.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/S_pbm.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/S_peama.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/S_sede.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/S_sexo.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/S_snies.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/S_tipo.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/Serie.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/T_colegio.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/T_edad.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/T_estrato.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/T_etapa.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/T_modalidad.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/T_mpv.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/T_nacionalidad.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/T_paes.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/T_pbm.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/T_peama.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/T_sede.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/T_sexo.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/T_snies.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/T_tipo.html[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4-compressed.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4leaflet.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap-theme.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/font-awesome.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/FontAwesome.otf[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.eot[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.svg[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.ttf[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.woff[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.eot[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.svg[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.ttf[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.woff[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-matte.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-matte@2x.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-plain.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-shadow.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-shadow@2x.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-soft.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-soft@2x.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/ionicons.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/crosstalk-1.0.0/css/crosstalk.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.js.map[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js.map[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/css/datatables-crosstalk.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/datatables.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/datatables.yaml[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
+ create mode 100644 20191/Nal/Postgrado/libraryjs/leafletfix-1.0.0/leafletfix.css[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.css[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/proj4js-2.3.15/proj4.js[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/selectize-0.12.0/selectize.bootstrap3.css[0K
+ create mode 100644 20191/Nal/Postgrado/libraryjs/selectize-0.12.0/selectize.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/A_colegio.html[0K
+ create mode 100644 20191/Nal/Pregrado/A_edad.html[0K
+ create mode 100644 20191/Nal/Pregrado/A_estrato.html[0K
+ create mode 100644 20191/Nal/Pregrado/A_etapa.html[0K
+ create mode 100644 20191/Nal/Pregrado/A_modalidad.html[0K
+ create mode 100644 20191/Nal/Pregrado/A_mpv.html[0K
+ create mode 100644 20191/Nal/Pregrado/A_nacionalidad.html[0K
+ create mode 100644 20191/Nal/Pregrado/A_paes.html[0K
+ create mode 100644 20191/Nal/Pregrado/A_pbm.html[0K
+ create mode 100644 20191/Nal/Pregrado/A_peama.html[0K
+ create mode 100644 20191/Nal/Pregrado/A_sede.html[0K
+ create mode 100644 20191/Nal/Pregrado/A_sexo.html[0K
+ create mode 100644 20191/Nal/Pregrado/A_snies.html[0K
+ create mode 100644 20191/Nal/Pregrado/A_tipo.html[0K
+ create mode 100644 20191/Nal/Pregrado/Nac_col1.html[0K
+ create mode 100644 20191/Nal/Pregrado/Nac_comb.html[0K
+ create mode 100644 20191/Nal/Pregrado/Nac_dpto.html[0K
+ create mode 100644 20191/Nal/Pregrado/Nac_mun.html[0K
+ create mode 100644 20191/Nal/Pregrado/Res_col1.html[0K
+ create mode 100644 20191/Nal/Pregrado/Res_comb.html[0K
+ create mode 100644 20191/Nal/Pregrado/Res_dpto.html[0K
+ create mode 100644 20191/Nal/Pregrado/Res_mun.html[0K
+ create mode 100644 20191/Nal/Pregrado/S_colegio.html[0K
+ create mode 100644 20191/Nal/Pregrado/S_edad.html[0K
+ create mode 100644 20191/Nal/Pregrado/S_estrato.html[0K
+ create mode 100644 20191/Nal/Pregrado/S_etapa.html[0K
+ create mode 100644 20191/Nal/Pregrado/S_modalidad.html[0K
+ create mode 100644 20191/Nal/Pregrado/S_mpv.html[0K
+ create mode 100644 20191/Nal/Pregrado/S_nacionalidad.html[0K
+ create mode 100644 20191/Nal/Pregrado/S_paes.html[0K
+ create mode 100644 20191/Nal/Pregrado/S_pbm.html[0K
+ create mode 100644 20191/Nal/Pregrado/S_peama.html[0K
+ create mode 100644 20191/Nal/Pregrado/S_sede.html[0K
+ create mode 100644 20191/Nal/Pregrado/S_sexo.html[0K
+ create mode 100644 20191/Nal/Pregrado/S_snies.html[0K
+ create mode 100644 20191/Nal/Pregrado/S_tipo.html[0K
+ create mode 100644 20191/Nal/Pregrado/Serie.html[0K
+ create mode 100644 20191/Nal/Pregrado/T_colegio.html[0K
+ create mode 100644 20191/Nal/Pregrado/T_edad.html[0K
+ create mode 100644 20191/Nal/Pregrado/T_estrato.html[0K
+ create mode 100644 20191/Nal/Pregrado/T_etapa.html[0K
+ create mode 100644 20191/Nal/Pregrado/T_modalidad.html[0K
+ create mode 100644 20191/Nal/Pregrado/T_mpv.html[0K
+ create mode 100644 20191/Nal/Pregrado/T_nacionalidad.html[0K
+ create mode 100644 20191/Nal/Pregrado/T_paes.html[0K
+ create mode 100644 20191/Nal/Pregrado/T_pbm.html[0K
+ create mode 100644 20191/Nal/Pregrado/T_peama.html[0K
+ create mode 100644 20191/Nal/Pregrado/T_sede.html[0K
+ create mode 100644 20191/Nal/Pregrado/T_sexo.html[0K
+ create mode 100644 20191/Nal/Pregrado/T_snies.html[0K
+ create mode 100644 20191/Nal/Pregrado/T_tipo.html[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4-compressed.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/Proj4Leaflet-0.7.2/proj4leaflet.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap-theme.min.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap.min.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/bootstrap.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/font-awesome.min.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/FontAwesome.otf[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.eot[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.svg[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.ttf[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/fontawesome-webfont.woff[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.eot[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.svg[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.ttf[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/glyphicons-halflings-regular.woff[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.eot[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.svg[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.ttf[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/fonts/ionicons.woff[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-matte.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-matte@2x.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-plain.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-shadow.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-shadow@2x.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-soft.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/images/markers-soft@2x.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/ionicons.min.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/bootstrap-3.3.7/leaflet.awesome-markers.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/crosstalk-1.0.0/css/crosstalk.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.js.map[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/crosstalk-1.0.0/js/crosstalk.min.js.map[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/css/datatables-crosstalk.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/datatables.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/datatables.yaml[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
 l/css/autoFill.bootstrap.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
 l/css/autoFill.bootstrap4.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
 l/css/autoFill.dataTables.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
 l/css/autoFill.foundation.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
 l/css/autoFill.jqueryui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
 l/css/autoFill.semanticui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
 l/js/autoFill.bootstrap.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
 l/js/autoFill.bootstrap4.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
 l/js/autoFill.foundation.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
 l/js/autoFill.jqueryui.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
 l/js/autoFill.semanticui.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/AutoFi[0Kl
 l/js/dataTables.autoFill.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /css/buttons.bootstrap.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /css/buttons.bootstrap4.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /css/buttons.dataTables.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /css/buttons.foundation.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /css/buttons.jqueryui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /css/buttons.semanticui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /js/buttons.bootstrap.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /js/buttons.bootstrap4.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /js/buttons.colVis.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /js/buttons.flash.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /js/buttons.foundation.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /js/buttons.html5.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /js/buttons.jqueryui.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /js/buttons.print.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /js/buttons.semanticui.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /js/dataTables.buttons.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /js/jszip.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /js/pdfmake.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /js/vfs_fonts.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Button[0Ks
 /swf/flashExport.swf[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
 der/css/colReorder.bootstrap.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
 der/css/colReorder.bootstrap4.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
 der/css/colReorder.dataTables.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
 der/css/colReorder.foundation.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
 der/css/colReorder.jqueryui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
 der/css/colReorder.semanticui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/ColReo[0Kr
 der/js/dataTables.colReorder.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
 lumns/css/fixedColumns.bootstrap.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
 lumns/css/fixedColumns.bootstrap4.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
 lumns/css/fixedColumns.dataTables.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
 lumns/css/fixedColumns.foundation.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
 lumns/css/fixedColumns.jqueryui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
 lumns/css/fixedColumns.semanticui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedC[0Ko
 lumns/js/dataTables.fixedColumns.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
 ader/css/fixedHeader.bootstrap.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
 ader/css/fixedHeader.bootstrap4.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
 ader/css/fixedHeader.dataTables.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
 ader/css/fixedHeader.foundation.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
 ader/css/fixedHeader.jqueryui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
 ader/css/fixedHeader.semanticui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/FixedH[0Ke
 ader/js/dataTables.fixedHeader.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
 e/css/keyTable.bootstrap.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
 e/css/keyTable.bootstrap4.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
 e/css/keyTable.dataTables.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
 e/css/keyTable.foundation.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
 e/css/keyTable.jqueryui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
 e/css/keyTable.semanticui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/KeyTab[0Kl
 e/js/dataTables.keyTable.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
 ive/css/responsive.bootstrap.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
 ive/css/responsive.bootstrap4.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
 ive/css/responsive.dataTables.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
 ive/css/responsive.foundation.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
 ive/css/responsive.jqueryui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
 ive/css/responsive.semanticui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
 ive/js/dataTables.responsive.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
 ive/js/responsive.bootstrap.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
 ive/js/responsive.bootstrap4.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
 ive/js/responsive.foundation.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
 ive/js/responsive.jqueryui.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Respon[0Ks
 ive/js/responsive.semanticui.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
 p/css/rowGroup.bootstrap.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
 p/css/rowGroup.bootstrap4.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
 p/css/rowGroup.dataTables.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
 p/css/rowGroup.foundation.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
 p/css/rowGroup.jqueryui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
 p/css/rowGroup.semanticui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowGro[0Ku
 p/js/dataTables.rowGroup.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
 der/css/rowReorder.bootstrap.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
 der/css/rowReorder.bootstrap4.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
 der/css/rowReorder.dataTables.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
 der/css/rowReorder.foundation.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
 der/css/rowReorder.jqueryui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
 der/css/rowReorder.semanticui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/RowReo[0Kr
 der/js/dataTables.rowReorder.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
 r/css/scroller.bootstrap.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
 r/css/scroller.bootstrap4.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
 r/css/scroller.dataTables.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
 r/css/scroller.foundation.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
 r/css/scroller.jqueryui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
 r/css/scroller.semanticui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Scroll[0Ke
 r/js/dataTables.scroller.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
 css/select.bootstrap.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
 css/select.bootstrap4.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
 css/select.dataTables.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
 css/select.foundation.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
-css/select.jqueryui.min.css[0K[?25h[?25l
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
+css/select.jqueryui.min.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
 css/select.semanticui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-extensions/Select[0K/
 js/dataTables.select.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-plugins/natural/n[0Ka
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-plugins/natural/n[0Ka
 tural.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHig[0Kh
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHig[0Kh
 light/dataTables.searchHighlight.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHig[0Kh
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHig[0Kh
 light/dataTables.searchHighlight.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHig[0Kh
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables-plugins/searchHig[0Kh
 light/jquery.highlight.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bo[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bo[0Ko
 tstrap.extra.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bo[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bo[0Ko
 tstrap.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bo[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.bo[0Ko
 tstrap4.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.fo[0Ku
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.fo[0Ku
 ndation.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.jq[0Ku
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.jq[0Ku
 eryui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.ma[0Kt
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.ma[0Kt
 erial.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.se[0Km
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.se[0Km
 anticui.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.ui[0Kk
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/dataTables.ui[0Kk
 it.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dataTa[0Kb
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dataTa[0Kb
 les.extra.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dataTa[0Kb
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/css/jquery.dataTa[0Kb
 les.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.boo[0Kt
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.boo[0Kt
 strap.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.boo[0Kt
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.boo[0Kt
 strap4.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.fou[0Kn
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.fou[0Kn
 dation.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.jqu[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.jqu[0Ke
 ryui.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.mat[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.mat[0Ke
 rial.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.sem[0Ka
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.sem[0Ka
 nticui.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.uik[0Ki
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/dataTables.uik[0Ki
 t.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/jquery.dataTab[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/js/jquery.dataTab[0Kl
 es.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/license.txt[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/jquery/LICENSE.txt[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/jquery/jquery.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouislider[0K.
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/datatables/license.txt[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/jquery/LICENSE.txt[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/jquery/jquery.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouislider[0K.
 min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouislider[0K.
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/nouislider/jquery.nouislider[0K.
 min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/selectize/selectize.bootstra[0Kp
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/selectize/selectize.bootstra[0Kp
 3.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/selectize/selectize.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/datatables-css-0.0.0/datatables-crosstalk.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-core-1.10.16/css/jquery.dataTables.extra.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-core-1.10.16/css/jquery.dataTables.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataTables.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.buttons.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.dataTables.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.keyTable.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-ext-responsive-1.10.16/css/responsive.dataTables.min[0K.
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-binding-0.4/lib/selectize/selectize.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/datatables-css-0.0.0/datatables-crosstalk.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-core-1.10.16/css/jquery.dataTables.extra.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-core-1.10.16/css/jquery.dataTables.min.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-core-1.10.16/js/jquery.dataTables.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/css/buttons.dataTables.min.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.colVis.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.flash.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.html5.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/buttons.print.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-ext-buttons-1.10.16/js/dataTables.buttons.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-ext-keytable-1.10.16/css/keyTable.dataTables.min.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-ext-keytable-1.10.16/js/dataTables.keyTable.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-ext-responsive-1.10.16/css/responsive.dataTables.min[0K.
 css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.responsive.min.[0Kj
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-ext-responsive-1.10.16/js/dataTables.responsive.min.[0Kj
 s[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searchHigh[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searchHigh[0Kl
 ight.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searchHigh[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/dataTables.searchHigh[0Kl
 ight.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery.highlight.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart.yaml[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart2.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart2.yaml[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartct.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartct.yaml[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartzero.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartzero.yaml[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/css/motion[0K.
+ create mode 100644 20191/Nal/Pregrado/libraryjs/dt-plugin-searchhighlight-1.10.16/jquery.highlight.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart.yaml[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart2.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchart2.yaml[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartct.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartct.yaml[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartzero.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/highchartzero.yaml[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/css/motion[0K.
 css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/res[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/res[0Ke
 t.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/sym[0Kb
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/sym[0Kb
 ols-extra.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/tex[0Kt
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/custom/tex[0Kt
 -symbols.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts[0K-
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts[0K-
 3d.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts[0K-
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts[0K-
 more.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts[0K.
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/highcharts[0K.
 js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/maps/modul[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/maps/modul[0Ke
 s/map.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ac[0Kc
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ac[0Kc
 essibility.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/an[0Kn
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/an[0Kn
 otations.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/bo[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/bo[0Ko
 st-canvas.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/bo[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/bo[0Ko
 st.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/br[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/br[0Ko
 ken-axis.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/bu[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/bu[0Kl
 let.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/da[0Kt
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/da[0Kt
 a.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/dr[0Ka
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/dr[0Ka
 g-panes.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/dr[0Ki
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/dr[0Ki
 lldown.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ex[0Kp
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ex[0Kp
 ort-data.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ex[0Kp
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ex[0Kp
 orting.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/fu[0Kn
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/fu[0Kn
 nel.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ga[0Kn
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ga[0Kn
 tt.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/gr[0Ki
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/gr[0Ki
 d-axis.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/he[0Ka
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/he[0Ka
 tmap.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/hi[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/hi[0Ks
 togram-bellcurve.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/it[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/it[0Ke
 m-series.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/no[0K-
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/no[0K-
 data-to-display.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/of[0Kf
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/of[0Kf
 line-exporting.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ol[0Kd
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ol[0Kd
 ie.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ov[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ov[0Ke
 rlapping-datalabels.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/pa[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/pa[0Kr
 allel-coordinates.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/pa[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/pa[0Kr
 eto.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/sa[0Kn
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/sa[0Kn
 key.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/se[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/se[0Kr
 ies-label.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/so[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/so[0Kl
 id-gauge.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/st[0Ka
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/st[0Ka
 tic-scale.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/st[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/st[0Ko
 ck.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/st[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/st[0Kr
 eamgraph.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/su[0Kn
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/su[0Kn
 burst.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/tr[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/tr[0Ke
 emap.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/va[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/va[0Kr
 iable-pie.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/va[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/va[0Kr
 iwide.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ve[0Kc
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/ve[0Kc
 tor.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/wi[0Kn
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/wi[0Kn
 dbarb.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/wo[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/wo[0Kr
 dcloud.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/xr[0Ka
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/modules/xr[0Ka
 nge.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/an[0Kn
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/an[0Kn
 otations.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/dr[0Ka
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/dr[0Ka
 ggable-legend.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/dr[0Ka
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/dr[0Ka
 ggable-points.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/ex[0Kp
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/ex[0Kp
 ort-csv.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/gr[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/gr[0Ko
 uped-categories.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/hi[0Kg
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/hi[0Kg
 hcharts-regression.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/mo[0Kt
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/mo[0Kt
 ion.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/mu[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/mu[0Kl
 ticolor_series.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/pa[0Kt
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/pa[0Kt
 tern-fill-v2.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/to[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/plugins/to[0Ko
 ltip-delay.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/stock/high[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/highcharts-6.0.3/stock/high[0Ks
 tock.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/htmlwdgtgrid/htmlwdgtgrid.c[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/htmlwdgtgrid/htmlwdgtgrid.c[0Ks
 s[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/jquery/jquery.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/proj4js/proj4.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/css/motion.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/custom/reset.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/custom/symbols-extra.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/custom/text-symbols.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/highcharts-3d.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/highcharts-more.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/highcharts.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/maps/modules/map.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/accessibility.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/annotations.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/boost-canvas.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/boost.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/broken-axis.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/bullet.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/data.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/drag-panes.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/drilldown.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/export-data.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/exporting.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/funnel.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/gantt.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/grid-axis.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/heatmap.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/histogram-bellcurve.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/item-series.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/no-data-to-display.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/offline-exporting.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/oldie.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/overlapping-datalabels.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/parallel-coordinates.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/pareto.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/sankey.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/series-label.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/solid-gauge.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/static-scale.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/stock.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/streamgraph.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/sunburst.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/treemap.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/variable-pie.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/variwide.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/vector.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/windbarb.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/wordcloud.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/xrange.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/annotations.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/draggable-legend.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/draggable-points.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/export-csv.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/grouped-categories.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/highcharts-regression.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/motion.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/multicolor_series.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/pattern-fill-v2.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/tooltip-delay.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/highcharts-6.0.3/stock/highstock.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/htmlwdgtgrid-1/htmlwdgtgrid.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/htmlwidgets-1.2/htmlwidgets.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/jquery-1.11.1/jquery.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/jquery-1.12.4/LICENSE.txt[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/jquery-1.12.4/jquery.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/jszip-1.10.16/jszip.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/1px.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/layers-2x.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/layers.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-icon-2x.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-icon.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-shadow.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet-src.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap-theme.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/font-awesome.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/FontAwesome.otf[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/jquery/jquery.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highchart-binding-0.6.0/lib/proj4js/proj4.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/css/motion.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/custom/reset.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/custom/symbols-extra.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/custom/text-symbols.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/highcharts-3d.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/highcharts-more.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/highcharts.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/maps/modules/map.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/accessibility.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/annotations.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/boost-canvas.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/boost.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/broken-axis.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/bullet.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/data.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/drag-panes.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/drilldown.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/export-data.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/exporting.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/funnel.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/gantt.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/grid-axis.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/heatmap.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/histogram-bellcurve.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/item-series.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/no-data-to-display.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/offline-exporting.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/oldie.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/overlapping-datalabels.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/parallel-coordinates.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/pareto.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/sankey.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/series-label.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/solid-gauge.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/static-scale.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/stock.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/streamgraph.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/sunburst.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/treemap.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/variable-pie.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/variwide.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/vector.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/windbarb.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/wordcloud.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/modules/xrange.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/annotations.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/draggable-legend.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/draggable-points.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/export-csv.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/grouped-categories.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/highcharts-regression.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/motion.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/multicolor_series.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/pattern-fill-v2.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/plugins/tooltip-delay.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/highcharts-6.0.3/stock/highstock.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/htmlwdgtgrid-1/htmlwdgtgrid.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/htmlwidgets-1.2/htmlwidgets.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/jquery-1.11.1/jquery.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/jquery-1.12.4/jquery.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/jquery-1.12.4/jquery.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/jszip-1.10.16/jszip.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/1px.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/layers-2x.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/layers.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-icon-2x.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-icon.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-0.7.7/images/marker-shadow.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet-src.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-0.7.7/leaflet.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap-theme.min.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/bootstrap.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/font-awesome.min.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/FontAwesome.otf[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Ke
 ot[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Ks
 vg[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Kt
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Kt
 tf[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Kw
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/fontawesome-webfont.[0Kw
 off[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
 regular.eot[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
 regular.svg[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
 regular.ttf[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/glyphicons-halflings[0K-
 regular.woff[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.eot[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.svg[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.ttf[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.woff[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte@2x.pn[0Kg
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.eot[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.svg[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.ttf[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/fonts/ionicons.woff[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-matte@2x.pn[0Kg
 [0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-plain.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shadow.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shadow@2x.p[0Kn
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-plain.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shadow.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-shadow@2x.p[0Kn
 g[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft@2x.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/ionicons.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.cs[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/images/markers-soft@2x.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/ionicons.min.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.cs[0Ks
 [0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.mi[0Kn
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-awesomemarkers-2.0.3/leaflet.awesome-markers.mi[0Kn
 .js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/leaflet.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/leaflet.yaml[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/images/death.pn[0Kg
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/leaflet.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/leaflet.yaml[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/images/death.pn[0Kg
 [0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.label-s[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.label-s[0Kr
 c.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.label.c[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.label.c[0Ks
 s[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.label.j[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/Leaflet.label/leaflet.label.j[0Ks
 [0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/cancel[0K.
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/jquery/jquery.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/cancel[0K.
 png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/cancel[0K_
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/cancel[0K_
 @2X.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/check.[0Kp
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/check.[0Kp
 ng[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/check_[0K@
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/check_[0K@
 2X.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/focus.[0Kp
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/focus.[0Kp
 ng[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/focus_[0K@
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/focus_[0K@
 2X.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/rulers[0K.
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/rulers[0K.
 png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/rulers[0K_
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/rulers[0K_
 @2X.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/start.[0Kp
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/start.[0Kp
 ng[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/start_[0K@
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/start_[0K@
 2X.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/trash.[0Kp
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/trash.[0Kp
 ng[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/trash_[0K@
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/images/trash_[0K@
 2X.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-measu[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-measu[0Kr
 e.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-measu[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-measu[0Kr
 e.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-measu[0Kr
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-measure/leaflet-measu[0Kr
 e.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/index.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/leaflet-omni[0Kv
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/index.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/leaflet-omni[0Kv
 ore.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/leaflet-omni[0Kv
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/leaflet-omni[0Kv
 ore.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/package.json[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/CONTRIBUTIN[0KG
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-omnivore/package.json[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/CONTRIBUTIN[0KG
 .md[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/README.md[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/bower.json[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/css/gh-fork[0K-
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/README.md[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/bower.json[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/css/gh-fork[0K-
 ribbon.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/css/gh-fork[0K-
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/css/gh-fork[0K-
 ribbon.ie.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/leaflet-pro[0Kv
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/leaflet-pro[0Kv
 iders.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/license.md[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/package.jso[0Kn
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/license.md[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/package.jso[0Kn
 [0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/providers.j[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet-providers/providers.j[0Ks
 on[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/1px.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/layers-2x.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/layers.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-icon-2x[0K.
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/1px.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/layers-2x.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/layers.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-icon-2x[0K.
 png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-icon.pn[0Kg
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-icon.pn[0Kg
 [0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-shadow.[0Kp
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/images/marker-shadow.[0Kp
 ng[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet-src.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leafletfix/leafletfix.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.M[0Ki
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet-src.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leaflet/leaflet.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/lib/leafletfix/leafletfix.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.M[0Ki
 niMap.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.M[0Ki
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.M[0Ki
 niMap.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.M[0Ki
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.M[0Ki
 niMap.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.M[0Ki
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Control.M[0Ki
 niMap.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Minimap-b[0Ki
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/Minimap-b[0Ki
 nding.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/images/to[0Kg
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/images/to[0Kg
 gle.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/images/to[0Kg
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet-MiniMap/images/to[0Kg
 gle.svg[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/EasyBu[0Kt
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/EasyBu[0Kt
 ton-binding.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/LICENS[0KE
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/LICENS[0KE
 [0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/easy-b[0Ku
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/easy-b[0Ku
 tton.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/easy-b[0Ku
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.EasyButton/easy-b[0Ku
 tton.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Graticule/Graticu[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Graticule/Graticu[0Kl
 e-binding.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Graticule/L.Grati[0Kc
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Graticule/L.Grati[0Kc
 ule.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticule/L[0K.
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticule/L[0K.
 SimpleGraticule.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticule/L[0K.
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticule/L[0K.
 SimpleGraticule.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticule/S[0Ki
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.SimpleGraticule/S[0Ki
 mpleGraticule-binding.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Terminator/L.Term[0Ki
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Terminator/L.Term[0Ki
 nator.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Terminator/Termin[0Ka
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.Terminator/Termin[0Ka
 tor-binding.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/b[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/b[0Ko
 otstrap-theme.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/b[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/b[0Ko
 otstrap.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/b[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/b[0Ko
 otstrap.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
 nt-awesome.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
 nts/FontAwesome.otf[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
 nts/fontawesome-webfont.eot[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
 nts/fontawesome-webfont.svg[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
 nts/fontawesome-webfont.ttf[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
 nts/fontawesome-webfont.woff[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
 nts/glyphicons-halflings-regular.eot[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
 nts/glyphicons-halflings-regular.svg[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
 nts/glyphicons-halflings-regular.ttf[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
 nts/glyphicons-halflings-regular.woff[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
 nts/ionicons.eot[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
 nts/ionicons.svg[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
 nts/ionicons.ttf[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/f[0Ko
 nts/ionicons.woff[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
 ages/markers-matte.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
 ages/markers-matte@2x.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
 ages/markers-plain.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
 ages/markers-shadow.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
 ages/markers-shadow@2x.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
 ages/markers-soft.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Km
 ages/markers-soft@2x.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Ko
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/i[0Ko
 nicons.min.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/l[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/l[0Ke
 aflet.awesome-markers.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/l[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/l[0Ke
 aflet.awesome-markers.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/l[0Ke
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.awesome-markers/l[0Ke
 aflet.awesome-markers.min.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/MIT[0K-
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/MIT[0K-
 LICENCE.txt[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/Mar[0Kk
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/Mar[0Kk
 erCluster.Default.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/Mar[0Kk
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/Mar[0Kk
 erCluster.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
 let.markercluster-src.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
 let.markercluster.freezable-src.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
 let.markercluster.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
 let.markercluster.layersupport-src.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4-compre[0Ks
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4-compre[0Ks
 sed.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4leaflet[0K.
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4leaflet[0K.
 js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/im[0Kg
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/im[0Kg
 /filter-icon.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/im[0Kg
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/im[0Kg
 /move-handle.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/im[0Kg
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/im[0Kg
 /resize-handle.png[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/lo[0Kc
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/lo[0Kc
 ationfilter-bindings.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/lo[0Kc
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/lo[0Kc
 ationfilter.css[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/lo[0Kc
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/lo[0Kc
 ationfilter.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-providers-plugin/[0Kl
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-providers-plugin/[0Kl
 eaflet-providers-plugin.js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/EasyButton-binding.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/images/death.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/README.md[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/bower.json[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.ie.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/leaflet-providers.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/license.md[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/package.json[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/providers.json[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-providers-plugin[0K.
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/EasyButton-binding.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/images/death.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/README.md[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/bower.json[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.ie.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/leaflet-providers.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/license.md[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/package.json[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/providers.json[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-providers-plugin[0K.
 js[0K
-[0m        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/leafletfix-1.0.0/leafletfix.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/proj4js-2.3.15/proj4.js[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/selectize-0.12.0/selectize.bootstrap3.css[0m[0K
-        [0;31mdeleted:    20181/Nal/Pregrado/libraryjs/selectize-0.12.0/selectize.min.js[0m[0K
-[0K
-no changes added to commit (use "git add" and/or "git commit -a")[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/leafletfix-1.0.0/leafletfix.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/proj4js-2.3.15/proj4.js[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/selectize-0.12.0/selectize.bootstrap3.css[0K
+ create mode 100644 20191/Nal/Pregrado/libraryjs/selectize-0.12.0/selectize.min.js[0K
 [0K[?25h[?25l
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matricul[0Ka
 dos[0;36m (master)[0;33m[0K
-[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h[?25l
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matricul[0Ka
-dos[0;36m (master)[0;33m[0K
-[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25hm[0K[17G[?25l$ git commit -m "[0K[?25hS[0Ke[0K[21G[?25l$ git commit -m "Se e[0K[?25hl[0Ki[0Km[0Ki[0Kn[0Ka[0Kn[0K[30G[?25l$ git commit -m "Se eliminan c[0K[?25ha[0Kr[0Kp[0Ke[0Kt[0Ka[0Ks[0K[39G[?25l$ git commit -m "Se eliminan carpetas a[0K[?25hn[0Kt[0Ki[0Kg[0Ku[0Ka[0Ks[0K"[0K[?25l
-[0K[?25h[0m[1;1H[2J[0mLICENCE.txt[0K[?25l
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/Mar[0Kk
-erCluster.Default.css[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/Mar[0Kk
-erCluster.css[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
-let.markercluster-src.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
-let.markercluster.freezable-src.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
-let.markercluster.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Leaflet.markercluster/lea[0Kf
-let.markercluster.layersupport-src.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4-compre[0Ks
-sed.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/Proj4Leaflet/proj4leaflet[0K.
-js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/im[0Kg
-/filter-icon.png[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/im[0Kg
-/move-handle.png[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/le[0K[?25haflet-locationfilter/im[0Kg[?25l
-/resize-handle.png[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/lo[0Kc
-ationfilter-bindings.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/lo[0Kc
-ationfilter.css[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-locationfilter/lo[0Kc
-ationfilter.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-binding-1.1.0/plugins/leaflet-providers-plugin/[0Kl
-eaflet-providers-plugin.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/EasyButton-binding.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/LICENSE[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.css[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-easybutton-1.3.1/easy-button.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/images/death.png[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label-src.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label.css[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-label-0.2.2/leaflet.label.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.css[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.css[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Control.MiniMap.min.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/Minimap-binding.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.png[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-minimap-3.3.1/images/toggle.svg[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/CONTRIBUTING.md[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/README.md[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/bower.json[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.css[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/css/gh-fork-ribbon.ie.css[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/leaflet-providers.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/license.md[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/package.json[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-providers-1.0.27/providers.json[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leaflet-providers-plugin-1.1.0/leaflet-providers-plugin[0K.
-js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/leafletfix-1.0.0/leafletfix.css[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.css[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/nouislider-7.0.10/jquery.nouislider.min.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/pdfmake-1.10.16/pdfmake.min.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/pdfmake-1.10.16/vfs_fonts.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/proj4js-2.3.15/proj4.js[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/selectize-0.12.0/selectize.bootstrap3.css[0K
- delete mode 100644 20181/Nal/Pregrado/libraryjs/selectize-0.12.0/selectize.min.js[0K
-[0K[?25h[?25l
-[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matricul[0Ka
-dos[0;36m (master)[0;33m[0K
-[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git c[0K[?25ho[0Km[0Km[0Ki[0Kt[0K[14G[?25l$ git commit -[0K[?25h[?25l$ git commit[0K[14G[?25h[13G[?25l$ git commi[0K[?25h[?25l$ git comm[0K[?25h[?25l$ git com[0K[?25h[?25l$ git co[0K[?25h[?25l$ git c[0K[?25h[?25l$ git[0K[7G[?25h[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
+[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git p[0K[?25hu[0Ks[0Kh[0K[12G[?25l$ git push o[0K[?25hr[0Ki[0Kg[0Ki[0Kn[0K[19G[?25l$ git push origin m[0K[?25ha[0Ks[0Kt[0Ke[0Kr[0K[?25l
 [0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
 error: cannot spawn rpostback-askpass: No such file or directory[0K
 Username for 'https://github.com':[0K[36G[?25h[?25lUsername for 'https://github.com': e[0K[?25hs[0Kt[0Ka[0Kd[0Ki[0Ks[0Kt[0Ki[0Kc[0Ka[0Ku[0Kn[0K[?25l
-error: cannot spawn rpostback-askpass: No such file or directory[0K
+[0K[?25herror: cannot spawn rpostback-askpass: No such file or directory[0K[?25l
 Password for 'https://estadisticaun@github.com':[0K[50G[?25h[?25l
 [0K[?25herror: cannot spawn sh: No such file or directory[0K[?25l
-[0K[?25hCounting objects: 7, done.[0K[?25l
+[0K[?25hCounting objects: 235, done.[0K[?25l
 Delta compression using up to 8 threads.[0K
-Compressing objects: 100% (6/6), done.[0K
-Writing objects: 100% (7/7), 36.92 KiB | 4.61 MiB/s, done.[0K
-Total 7 (delta 2), reused 0 (delta 0)[0K
-[0K[?25hremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[0K[?25l
+Compressing objects:   8% (19/233)[0K[1G[?25h[?25lCompressing objects:   9% (21/233)[0K[1G[?25h[?25lCompressing objects:  13% (31/233)[0K[1G[?25h[?25lCompressing objects:  24% (56/233)[0K[1G[?25h[?25lCompressing objects:  27% (63/233)[0K[1G[?25h[?25lCompressing objects:  30% (70/233)[0K[1G[?25h[?25lCompressing objects:  42% (98/233)[0K[1G[?25h[?25lCompressing objects:  46% (108/233)[0K[1G[?25h[?25lCompressing objects:  50% (117/233)[0K[1G[?25h[?25lCompressing objects:  58% (136/233)[0K[1G[?25h[?25lCompressing objects:  69% (161/233)[0K[1G[?25h[?25lCompressing objects:  72% (168/233)[0K[1G[?25h[?25lCompressing objects:  74% (173/233)[0K[1G[?25h[?25lCompressing objects:  75% (175/233)[0K[1G[?25h[?25lCompressing objects:  78% (182/233)[0K[1G[?25h[?25lCompressing objects:  80% (187/233)[0K[1G[?25h[?25lCompressing objects:  81% (189/233)[0K[1G[?25h[?25lCompressing objects:  84% (196/233)[0K[1G[?25h[?25lCompressing objects:  86% (201/233)[0K[1G[?25h[?25lCompressing objects:  87% (203/233)[0K[1G[?25h[?25lCompressing objects:  89% (208/233)[0K[1G[?25h[?25lCompressing objects:  90% (210/233)[0K[1G[?25h[?25lCompressing objects:  94% (220/233)[0K[1G[?25h[?25lCompressing objects:  95% (222/233)[0K[1G[?25h[?25lCompressing objects:  96% (224/233)[0K[1G[?25h[?25lCompressing objects:  97% (227/233)[0K[1G[?25hCompressing objects: 100% (233/233), done.[0K[?25l
+Writing objects:   5% (12/235)[0K[1G[?25h[?25lWriting objects:  20% (48/235)[0K[1G[?25h[?25lWriting objects:  20% (48/235), 984.00 KiB | 976.00 KiB/s[0K[1G[?25h[?25lWriting objects:  21% (50/235), 984.00 KiB | 976.00 KiB/s[0K[1G[?25h[?25lWriting objects:  22% (53/235), 4.46 MiB | 2.14 MiB/s   s[0K[1G[?25h[?25lWriting objects:  23% (56/235), 5.58 MiB | 2.16 MiB/s   s[0K[1G[?25h[?25lWriting objects:  23% (56/235), 6.34 MiB | 1.97 MiB/s   s[0K[1G[?25h[?25lWriting objects:  35% (83/235), 6.34 MiB | 1.97 MiB/s   s[0K[1G[?25h[?25lWriting objects:  36% (85/235), 6.34 MiB | 1.97 MiB/s   s[0K[1G[?25h[?25lWriting objects:  37% (88/235), 8.63 MiB | 2.26 MiB/s   s[0K[1G[?25h[?25lWriting objects:  42% (99/235), 8.63 MiB | 2.26 MiB/s   s[0K[1G[?25h[?25lWriting objects:  43% (102/235), 8.63 MiB | 2.26 MiB/s[0K[1G[?25h[?25lWriting objects:  44% (105/235), 8.63 MiB | 2.26 MiB/s[0K[1G[?25h[?25lWriting objects:  58% (137/235), 8.63 MiB | 2.26 MiB/s[0K[1G[?25h[?25lWriting objects:  79% (186/235), 8.71 MiB | 1.95 MiB/s[0K[1G[?25h[?25lWriting objects:  80% (188/235), 10.54 MiB | 2.11 MiB/s[0K[1G[?25h[?25lWriting objects:  81% (191/235), 10.54 MiB | 2.11 MiB/s[0K[1G[?25h[?25lWriting objects:  82% (193/235), 10.54 MiB | 2.11 MiB/s[0K[1G[?25h[?25lWriting objects:  93% (219/235), 10.54 MiB | 2.11 MiB/s[0K[1G[?25h[?25lWriting objects:  94% (221/235), 10.54 MiB | 2.11 MiB/s[0K[1G[?25h[?25lWriting objects:  95% (224/235), 10.54 MiB | 2.11 MiB/s[0K[1G[?25hWriting objects: 100% (235/235), 10.60 MiB | 1.98 MiB/s, done.[0K[?25l
+Total 235 (delta 194), reused 0 (delta 0)[0K
+[0K[?25h[?25lremote: Resolving deltas:  39% (76/194)[0K[1G[?25h[?25lremote: Resolving deltas:  43% (84/194)[0K[1G[?25h[?25lremote: Resolving deltas:  45% (89/194)[0K[1G[?25h[?25lremote: Resolving deltas:  51% (100/194)[0K[1G[?25h[?25lremote: Resolving deltas:  57% (111/194)[0K[1G[?25h[?25lremote: Resolving deltas:  78% (152/194)[0K[1G[?25hremote: Resolving deltas: 100% (194/194), completed with 5 local objects.[0K[?25l
 [0K[?25hremote:[0K[?25l
 remote: GitHub found 2 vulnerabilities on estadisticaun/G_Matriculados's default branch (2 moderate). To[0K
 find out more, visit:[0K
 remote:      https://github.com/estadisticaun/G_Matriculados/network/alerts[0K
 remote:[0K
 To https://github.com/estadisticaun/G_Matriculados.git[0K
-   42a9477..6a14348  master -> master[0K
+   6a14348..0fd2ba9  master -> master[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matricul[0Ka
+dos[0;36m (master)[0;33m[0K
+[0m$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matricul[0Ka
 dos[0;36m (master)[0;33m[0K
@@ -1012,17 +972,60 @@ Changes not staged for commit:[0K
 [0K
         [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
         [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/files-pane.pper[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/source-pane.pper[0m[0K
-        [0;31mmodified:   .Rproj.user/B994EF53/pcs/windowlayoutstate.pper[0m[0K
-[0K
-Untracked files:[0K
-  (use "git add <file>..." to include in what will be committed)[0K
-[0K
-        [0;31m20191/[0m[0K
 [0K
 no changes added to commit (use "git add" and/or "git commit -a")[0K
 [0K[?25h[?25l
 [0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matricul[0Ka
 dos[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+[0K[?25h]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matriculados[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matricul[0Ka
+dos[0;36m (master)[0m[0K
+[?25l[2A[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matricu[0Kl
+dos[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matricu[0Kl
+ados[0;36m (master)[0m[0K
+$[0K[3G[?25h[0m[0Kbash: cut: command not found[0K[?25l
+[0K[?25h]0;:/c/Users/Alberto/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matriculados[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Matricu[0Kl
+ados[0;36m (master)[0m[0K
+[?25l[2A[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Ma[0Kt
+ados[0;36m (master)[0m[0K
+$[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git s[0K[?25ht[0Ka[0Kt[0Ku[0Ks[0K[?25l
+[0K[?25hOn branch master[0K[?25l
+Your branch is up-to-date with 'origin/master'.[0K
+[0K
+Changes not staged for commit:[0K
+  (use "git add <file>..." to update what will be committed)[0K
+  (use "git checkout -- <file>..." to discard changes in working directory)[0K
+[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/4149BEF0[0m[0K
+        [0;31mmodified:   .Rproj.user/B994EF53/console06/INDEX001[0m[0K
+[0K
+Untracked files:[0K
+  (use "git add <file>..." to include in what will be committed)[0K
+[0K
+        [0;31mBog/[0m[0K
+        [0;31mMan/[0m[0K
+        [0;31mMed/[0m[0K
+        [0;31mNal/[0m[0K
+        [0;31mPal/[0m[0K
+[0K
+no changes added to commit (use "git add" and/or "git commit -a")[0K
+[0K[?25h[?25l
+[0;32mAlberto@Alberto-HP [0;35m [0;33m~/Documents/ONP/Oficina Nacional de Estadística/Página/Cifras/Estudiantes/G_Ma[0Kt
+riculados[0;36m (master)[0m[0K
 $[0K[3G[?25h[?25l$ g[0K[?25hi[0Kt[0K[7G[?25l$ git a[0K[?25hd[0Kd[0K[11G[?25l$ git add .[0K[?25h
