@@ -1,52 +1,58 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
 <meta charset="utf-8"/>
 <style>body{background-color:white;}</style>
-<script src="libraryjs/htmlwidgets-1.5.1/htmlwidgets.js"></script>
-<script src="libraryjs/jquery-1.11.1/jquery.min.js"></script>
+<script src="libraryjs/htmlwidgets-1.5.3/htmlwidgets.js"></script>
+<script src="libraryjs/jquery-3.5.0/jquery.min.js"></script>
 <script src="libraryjs/proj4js-2.3.15/proj4.js"></script>
-<link href="libraryjs/highcharts-6.0.3/css/motion.css" rel="stylesheet" />
-<script src="libraryjs/highcharts-6.0.3/highcharts.js"></script>
-<script src="libraryjs/highcharts-6.0.3/highcharts-3d.js"></script>
-<script src="libraryjs/highcharts-6.0.3/highcharts-more.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/stock.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/heatmap.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/treemap.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/annotations.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/boost.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/data.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/drag-panes.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/drilldown.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/funnel.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/item-series.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/offline-exporting.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/overlapping-datalabels.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/parallel-coordinates.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/sankey.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/solid-gauge.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/streamgraph.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/sunburst.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/vector.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/wordcloud.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/xrange.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/exporting.js"></script>
-<script src="libraryjs/highcharts-6.0.3/modules/export-data.js"></script>
-<script src="libraryjs/highcharts-6.0.3/maps/modules/map.js"></script>
-<script src="libraryjs/highcharts-6.0.3/plugins/grouped-categories.js"></script>
-<script src="libraryjs/highcharts-6.0.3/plugins/motion.js"></script>
-<script src="libraryjs/highcharts-6.0.3/plugins/multicolor_series.js"></script>
-<script src="libraryjs/highcharts-6.0.3/custom/reset.js"></script>
-<script src="libraryjs/highcharts-6.0.3/custom/symbols-extra.js"></script>
-<script src="libraryjs/highcharts-6.0.3/custom/text-symbols.js"></script>
-<script src="libraryjs/highchart-binding-0.6.0/highchart.js"></script>
+<link href="libraryjs/highcharts-8.1.2/css/motion.css" rel="stylesheet" />
+<script src="libraryjs/highcharts-8.1.2/highcharts.js"></script>
+<script src="libraryjs/highcharts-8.1.2/highcharts-3d.js"></script>
+<script src="libraryjs/highcharts-8.1.2/highcharts-more.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/stock.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/map.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/annotations.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/data.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/drilldown.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/item-series.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/offline-exporting.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/overlapping-datalabels.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/exporting.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/export-data.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/funnel.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/heatmap.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/treemap.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/sankey.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/dependency-wheel.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/organization.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/solid-gauge.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/streamgraph.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/sunburst.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/vector.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/wordcloud.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/xrange.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/tilemap.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/venn.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/gantt.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/timeline.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/parallel-coordinates.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/bullet.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/coloraxis.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/dumbbell.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/lollipop.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/series-label.js"></script>
+<script src="libraryjs/highcharts-8.1.2/plugins/motion.js"></script>
+<script src="libraryjs/highcharts-8.1.2/custom/reset.js"></script>
+<script src="libraryjs/highcharts-8.1.2/modules/boost.js"></script>
+<script src="libraryjs/highchart-binding-0.8.2/highchart.js"></script>
   <title>highchart</title>
 </head>
 <body>
 <div id="htmlwidget_container">
-  <div id="htmlwidget-54129419bfa84e8ba010" style="width:100%;height:500px;" class="highchart html-widget"></div>
+  <div id="htmlwidget-d8a48e2572b71cd32db1" style="width:100%;height:500px;" class="highchart html-widget"></div>
 </div>
-<script type="application/json" data-for="htmlwidget-54129419bfa84e8ba010">{"x":{"hc_opts":{"title":{"style":{"fontWeight":"bold","fontSize":"25px"},"text":"Distribución de estudiantes matriculados por primera vez por facultad - sede Bogotá, periodo 2020-1"},"yAxis":{"title":{"text":"Número de estudiantes (k: miles)","style":{"fontWeight":"bold","color":"black","fontSize":"18px"}},"labels":{"style":{"fontWeight":"bold","color":"black","fontSize":"18px"}}},"credits":{"enabled":false},"exporting":{"enabled":true},"plotOptions":{"series":{"label":{"enabled":false},"turboThreshold":0},"treemap":{"layoutAlgorithm":"squarified"},"bar":{"dataLabels":{"enabled":true,"style":{"fontWeight":"bold","color":"black","fontSize":"18px"}},"colorByPoint":true,"colors":["#8cc63f","#f15a24","#0071bc","#bdbdbd","#9e9ac8","#29abe2","#fbb03b","#6d6666","#99d8c9","#93278f","#c1272d"]}},"series":[{"group":"group","data":[{"YEAR":"2020","SEMESTRE":"1","Clase":"Ingeniería","Total":743,"y":743,"name":"Ingeniería - 19.5 %"},{"YEAR":"2020","SEMESTRE":"1","Clase":"Ciencias humanas","Total":615,"y":615,"name":"Ciencias humanas - 16.1 %"},{"YEAR":"2020","SEMESTRE":"1","Clase":"Ciencias","Total":517,"y":517,"name":"Ciencias - 13.6 %"},{"YEAR":"2020","SEMESTRE":"1","Clase":"Medicina","Total":506,"y":506,"name":"Medicina - 13.3 %"},{"YEAR":"2020","SEMESTRE":"1","Clase":"Artes","Total":381,"y":381,"name":"Artes - 10 %"},{"YEAR":"2020","SEMESTRE":"1","Clase":"Ciencias económicas","Total":294,"y":294,"name":"Ciencias económicas - 7.7 %"},{"YEAR":"2020","SEMESTRE":"1","Clase":"Derecho, ciencias políticas y sociales","Total":292,"y":292,"name":"Derecho, ciencias políticas y sociales - 7.7 %"},{"YEAR":"2020","SEMESTRE":"1","Clase":"Ciencias agrarias","Total":130,"y":130,"name":"Ciencias agrarias - 3.4 %"},{"YEAR":"2020","SEMESTRE":"1","Clase":"Odontología","Total":115,"y":115,"name":"Odontología - 3 %"},{"YEAR":"2020","SEMESTRE":"1","Clase":"Enfermería","Total":109,"y":109,"name":"Enfermería - 2.9 %"},{"YEAR":"2020","SEMESTRE":"1","Clase":"Medicina veterinaria y de zootecnia","Total":108,"y":108,"name":"Medicina veterinaria y de zootecnia - 2.8 %"}],"type":"bar","name":"Número de estudiantes (k: miles)","showInLegend":false}],"xAxis":{"categories":["Ingeniería","Ciencias humanas","Ciencias","Medicina","Artes","Ciencias económicas","Derecho, ciencias políticas y sociales","Ciencias agrarias","Odontología","Enfermería","Medicina veterinaria y de zootecnia"],"labels":{"style":{"fontWeight":"bold","color":"black","fontSize":"18px"}}}},"theme":{"colors":["#41B5E9","#FA8832","#34393C","#E46151"],"chart":{"style":{"color":"#333","fontFamily":"Open Sans"}},"title":{"style":{"fontFamily":"Raleway","fontWeight":"100"}},"subtitle":{"style":{"fontFamily":"Raleway","fontWeight":"100"}},"legend":{"align":"right","verticalAlign":"bottom"},"xAxis":{"gridLineWidth":1,"gridLineColor":"#F3F3F3","lineColor":"#F3F3F3","minorGridLineColor":"#F3F3F3","tickColor":"#F3F3F3","tickWidth":1},"yAxis":{"gridLineColor":"#F3F3F3","lineColor":"#F3F3F3","minorGridLineColor":"#F3F3F3","tickColor":"#F3F3F3","tickWidth":1}},"conf_opts":{"global":{"Date":null,"VMLRadialGradientURL":"http =//code.highcharts.com/list(version)/gfx/vml-radial-gradient.png","canvasToolsURL":"http =//code.highcharts.com/list(version)/modules/canvas-tools.js","getTimezoneOffset":null,"timezoneOffset":0,"useUTC":true},"lang":{"contextButtonTitle":"Chart context menu","decimalPoint":".","downloadJPEG":"Download JPEG image","downloadPDF":"Download PDF document","downloadPNG":"Download PNG image","downloadSVG":"Download SVG vector image","drillUpText":"Back to {series.name}","invalidDate":null,"loading":"Loading...","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"noData":"No data to display","numericSymbols":["k","M","G","T","P","E"],"printChart":"Print chart","resetZoom":"Reset zoom","resetZoomTitle":"Reset zoom level 1:1","shortMonths":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"thousandsSep":" ","weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]}},"type":"chart","fonts":["Open+Sans","Raleway"],"debug":false},"evals":[],"jsHooks":[]}</script>
-<script type="application/htmlwidget-sizing" data-for="htmlwidget-54129419bfa84e8ba010">{"viewer":{"width":"100%","height":350,"padding":0,"fill":true},"browser":{"width":"100%","height":500,"padding":0,"fill":true}}</script>
+<script type="application/json" data-for="htmlwidget-d8a48e2572b71cd32db1">{"x":{"hc_opts":{"chart":{"reflow":true},"title":{"style":{"fontWeight":"bold","fontSize":"25px"},"text":"Distribución de estudiantes matriculados por primera vez por facultad - sede Bogotá, periodo 2020-2"},"yAxis":{"title":{"text":"Número de estudiantes (k: miles)","style":{"fontWeight":"bold","color":"black","fontSize":"18px"}},"labels":{"style":{"fontWeight":"bold","color":"black","fontSize":"18px"}}},"credits":{"enabled":false},"exporting":{"enabled":true},"boost":{"enabled":false},"plotOptions":{"series":{"label":{"enabled":false},"turboThreshold":0},"treemap":{"layoutAlgorithm":"squarified"},"bar":{"dataLabels":{"enabled":true,"style":{"fontWeight":"bold","color":"black","fontSize":"18px"}},"colorByPoint":true,"colors":["#8cc63f","#0071bc","#f15a24","#fbb03b","#29abe2","#9e9ac8","#bdbdbd","#c1272d","#6d6666","#93278f","#99d8c9"]}},"series":[{"group":"group","data":[{"YEAR":"2020","SEMESTRE":"2","Clase":"Ingeniería","Total":792,"y":792,"name":"Ingeniería - 23.4 %"},{"YEAR":"2020","SEMESTRE":"2","Clase":"Ciencias","Total":545,"y":545,"name":"Ciencias - 16.1 %"},{"YEAR":"2020","SEMESTRE":"2","Clase":"Ciencias humanas","Total":444,"y":444,"name":"Ciencias humanas - 13.1 %"},{"YEAR":"2020","SEMESTRE":"2","Clase":"Derecho, ciencias políticas y sociales","Total":389,"y":389,"name":"Derecho, ciencias políticas y sociales - 11.5 %"},{"YEAR":"2020","SEMESTRE":"2","Clase":"Ciencias económicas","Total":312,"y":312,"name":"Ciencias económicas - 9.2 %"},{"YEAR":"2020","SEMESTRE":"2","Clase":"Artes","Total":307,"y":307,"name":"Artes - 9.1 %"},{"YEAR":"2020","SEMESTRE":"2","Clase":"Medicina","Total":260,"y":260,"name":"Medicina - 7.7 %"},{"YEAR":"2020","SEMESTRE":"2","Clase":"Medicina veterinaria y de zootecnia","Total":100,"y":100,"name":"Medicina veterinaria y de zootecnia - 3 %"},{"YEAR":"2020","SEMESTRE":"2","Clase":"Ciencias agrarias","Total":92,"y":92,"name":"Ciencias agrarias - 2.7 %"},{"YEAR":"2020","SEMESTRE":"2","Clase":"Enfermería","Total":81,"y":81,"name":"Enfermería - 2.4 %"},{"YEAR":"2020","SEMESTRE":"2","Clase":"Odontología","Total":65,"y":65,"name":"Odontología - 1.9 %"}],"type":"bar","name":"Número de estudiantes (k: miles)","showInLegend":false}],"xAxis":{"categories":["Ingeniería","Ciencias","Ciencias humanas","Derecho, ciencias políticas y sociales","Ciencias económicas","Artes","Medicina","Medicina veterinaria y de zootecnia","Ciencias agrarias","Enfermería","Odontología"],"labels":{"style":{"fontWeight":"bold","color":"black","fontSize":"18px"}}}},"theme":{"colors":["#41B5E9","#FA8832","#34393C","#E46151"],"chart":{"style":{"color":"#333","fontFamily":"Open Sans"}},"title":{"style":{"fontFamily":"Raleway","fontWeight":"100"}},"subtitle":{"style":{"fontFamily":"Raleway","fontWeight":"100"}},"legend":{"align":"right","verticalAlign":"bottom"},"xAxis":{"gridLineWidth":1,"gridLineColor":"#F3F3F3","lineColor":"#F3F3F3","minorGridLineColor":"#F3F3F3","tickColor":"#F3F3F3","tickWidth":1},"yAxis":{"gridLineColor":"#F3F3F3","lineColor":"#F3F3F3","minorGridLineColor":"#F3F3F3","tickColor":"#F3F3F3","tickWidth":1}},"conf_opts":{"global":{"Date":null,"VMLRadialGradientURL":"http =//code.highcharts.com/list(version)/gfx/vml-radial-gradient.png","canvasToolsURL":"http =//code.highcharts.com/list(version)/modules/canvas-tools.js","getTimezoneOffset":null,"timezoneOffset":0,"useUTC":true},"lang":{"contextButtonTitle":"Chart context menu","decimalPoint":".","downloadJPEG":"Download JPEG image","downloadPDF":"Download PDF document","downloadPNG":"Download PNG image","downloadSVG":"Download SVG vector image","drillUpText":"Back to {series.name}","invalidDate":null,"loading":"Loading...","months":["January","February","March","April","May","June","July","August","September","October","November","December"],"noData":"No data to display","numericSymbols":["k","M","G","T","P","E"],"printChart":"Print chart","resetZoom":"Reset zoom","resetZoomTitle":"Reset zoom level 1:1","shortMonths":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"thousandsSep":" ","weekdays":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"]}},"type":"chart","fonts":["Open+Sans","Raleway"],"debug":false},"evals":[],"jsHooks":[]}</script>
+<script type="application/htmlwidget-sizing" data-for="htmlwidget-d8a48e2572b71cd32db1">{"viewer":{"width":"100%","height":350,"padding":0,"fill":true},"browser":{"width":"100%","height":500,"padding":0,"fill":true}}</script>
 </body>
 </html>
